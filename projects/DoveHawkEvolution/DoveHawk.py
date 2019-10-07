@@ -1,9 +1,15 @@
 import uuid
 import random
-birdAmount = 25
+import csv
+
+
+birdAmount = 2
 rounds = 15
 birdPool = []
-
+octagonPool = []
+octagonAmount = 25
+octagonFoodcount = 2
+#Initial Variables
 
 
 
@@ -47,10 +53,6 @@ def createBirds():
     for x in range(birdAmount):
         birdPool.append(DoveCreator(uuid.uuid4()))
 #adds birds to birdPool, quick way to get a disease
-
-octagonPool = []
-octagonAmount = 50
-octagonFoodcount = 2
 #fight round initial variables
 
 class createOctagon():
@@ -87,6 +89,9 @@ def octagonSelect(birdPool, octagonPool):
             birdPool[x].dead = True
             deadBirds.append(birdPool[x])
 
+def graphAdder(Generation):
+    wtr.writerow([Generation,len(birdPool)])
+
 def fightRound(birdPool, octagonPool):
     for x in range(len(octagonPool)):
         if octagonPool[x].bird1 != 0:
@@ -112,21 +117,18 @@ def wholeEvent():
     octagonSelect(birdPool,octagonPool)
     emptyBirdPool(birdPool)
     fightRound(birdPool,octagonPool)
+    graphAdder(Generation)
     survival(birdPool)
-#Bird Testing
-def birdTest():
-    for x in birdPool:
-        print(x.__dict__)
-def deadBirdTest():
-    for x in deadBirds:
-        print(x.__dict__)
-#Octagon Testing
-#for x in octagonPool:
-#    print(x.__dict__)
 
+
+#Output result to graph
+wtr = csv.writer(open (f' {birdAmount}Birds {octagonAmount}Octagons 2 food Doves Only.csv', 'w'), delimiter=',', lineterminator='\n')
+wtr.writerow(["bird Amount", "Generation"])
+#Creates csv with two lines
 
 #Running the program
 initialize()
 for i in range(10):
+    Generation = i + 1
     wholeEvent()
     birdCount()
