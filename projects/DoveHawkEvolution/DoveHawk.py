@@ -3,6 +3,23 @@ import random
 birdAmount = 25
 rounds = 15
 birdPool = []
+
+
+
+
+#Test function
+def birdTest():
+    for x in birdPool:
+        print(x.__dict__)
+def deadBirdTest():
+    for x in deadBirds:
+        print(x.__dict__)
+def birdCount():
+    print(len(birdPool))
+
+
+
+
 #initial variables
 
 class DoveCreator:
@@ -19,8 +36,8 @@ class DoveCreator:
         self.food = 0
         self.dead = False
 #Creates a Dove
-#Having troubles building birds with consequtive ids so each of the little guys gets uuid4.
-#Eventually make a birdcreator instead of a hawk and dove creator
+#Having troubles building birds with consequtive ids so each oemptyBirdPool(birdPool) the little guys gets uuid4.
+#Eventually make a birdcreator instead of a hawk and dove creaemptyBirdPool(birdPool)or
 class hawkCreator:
     species = "hawk"
     food = 0
@@ -32,7 +49,7 @@ def createBirds():
 #adds birds to birdPool, quick way to get a disease
 
 octagonPool = []
-octagonAmount = 25
+octagonAmount = 50
 octagonFoodcount = 2
 #fight round initial variables
 
@@ -54,13 +71,13 @@ def createOctagons():
         room.bird2 =0
         octagonPool.append(room)
 #creates octogans
-def emptyBirdPool(birdpool):
-    del birdPool[x]
-
+def emptyBirdPool(birdPool):
+    birdPool.clear()
+#deletes birdPool to be populated with returning octagon birds
 deadBirds = []
 resultsPool = []
 def octagonSelect(birdPool, octagonPool):
-   for x in range(len(birdPool)):
+    for x in range(len(birdPool)):
         randomRoom = random.randint(0,len(octagonPool)-1)
         if octagonPool[randomRoom].bird1 == 0:
             octagonPool[randomRoom].bird1 = birdPool[x]
@@ -82,20 +99,34 @@ def fightRound(birdPool, octagonPool):
     
 def survival(birdPool):
     for x in birdPool:
-        use = "less"
+        if x.food == 2:
+            birdPool.append(DoveCreator(uuid.uuid4()))
+            
+
 
 #octagonSelect(birdPool,octagonPool)
-def wholeEvent():
+def initialize():
     createBirds()
     createOctagons()
+def wholeEvent():
     octagonSelect(birdPool,octagonPool)
-    fightRound(birdPool,octagonPool)
     emptyBirdPool(birdPool)
+    fightRound(birdPool,octagonPool)
     survival(birdPool)
-wholeEvent()
 #Bird Testing
-for x in birdPool:
+def birdTest():
+    for x in birdPool:
+        print(x.__dict__)
+def deadBirdTest():
+    for x in deadBirds:
         print(x.__dict__)
 #Octagon Testing
 #for x in octagonPool:
 #    print(x.__dict__)
+
+
+#Running the program
+initialize()
+for i in range(10):
+    wholeEvent()
+    birdCount()
