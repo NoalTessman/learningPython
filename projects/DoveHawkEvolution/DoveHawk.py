@@ -54,12 +54,11 @@ def createOctagons():
         room.bird2 =0
         octagonPool.append(room)
 #creates octogans
+def emptyBirdPool(birdpool):
+    del birdPool[x]
 
+deadBirds = []
 resultsPool = []
-#creates results pool to be used in octagonSelect
-createBirds()
-createOctagons()
-#creates birds and octogans
 def octagonSelect(birdPool, octagonPool):
    for x in range(len(birdPool)):
         randomRoom = random.randint(0,len(octagonPool)-1)
@@ -69,7 +68,34 @@ def octagonSelect(birdPool, octagonPool):
             octagonPool[randomRoom].bird2 = birdPool[x]
         else:
             birdPool[x].dead = True
+            deadBirds.append(birdPool[x])
 
-octagonSelect(birdPool,octagonPool)
-for x in octagonPool:
-    print(x.__dict__)
+def fightRound(birdPool, octagonPool):
+    for x in range(len(octagonPool)):
+        if octagonPool[x].bird1 != 0:
+            if octagonPool[x].bird2 !=0:
+                octagonPool[x].bird1.food, octagonPool[x].bird2.food = 1,1
+                birdPool.extend((octagonPool[x].bird1,octagonPool[x].bird2))
+            else: 
+                octagonPool[x].bird1.food = 2
+                birdPool.append(octagonPool[x].bird1)
+    
+def survival(birdPool):
+    for x in birdPool:
+        use = "less"
+
+#octagonSelect(birdPool,octagonPool)
+def wholeEvent():
+    createBirds()
+    createOctagons()
+    octagonSelect(birdPool,octagonPool)
+    fightRound(birdPool,octagonPool)
+    emptyBirdPool(birdPool)
+    survival(birdPool)
+wholeEvent()
+#Bird Testing
+for x in birdPool:
+        print(x.__dict__)
+#Octagon Testing
+#for x in octagonPool:
+#    print(x.__dict__)
