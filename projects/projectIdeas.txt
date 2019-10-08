@@ -1,0 +1,10 @@
+Work with tensorflow(delayed until i find i project i want to put deep learning into)
+work with GUIs 
+Physics
+More graph parsing that's actually useful
+compile and make an exe
+Send Messages over the internet or emails
+email alert system for earthquakes
+JSON stuff
+working with excel files
+More Plotly
