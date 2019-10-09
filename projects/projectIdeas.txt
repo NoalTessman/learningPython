@@ -4,7 +4,7 @@ Physics
 More graph parsing that's actually useful
 compile and make an exe
 Send Messages over the internet or emails
-email alert system for earthquakes
+email alert system for earthquakes(Done, but no live update API so it's as done as it will get.)(For now I will follow the coding trains tutorial and make a thing which maps out lats and longs of earthquakes.)
 JSON stuff
 working with excel files
 More Plotly
