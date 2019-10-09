@@ -1,0 +1,910 @@
+Quake Number,Location,Magnitude,Time
+1,"M 4.4 - 38km NE of Tyup, Kyrgyzstan",4.4,2019-10-08 15:49:22
+2,"M 4.5 - 7km SSE of Shiroi, Japan",4.5,2019-10-08 13:58:30
+3,"M 4.6 - 79km SE of Petropavlovsk-Kamchatskiy, Russia",4.6,2019-10-08 12:58:35
+4,"M 4.6 - 59km NNW of Dededo Village, Guam",4.6,2019-10-08 08:25:50
+5,"M 4.2 - 72km WNW of Copiapo, Chile",4.2,2019-10-08 08:04:09
+6,"M 5.0 - 50km WNW of Kirakira, Solomon Islands",5,2019-10-08 06:45:37
+7,"M 4.3 - 64km SSW of Karakul, Tajikistan",4.3,2019-10-08 04:48:29
+8,"M 4.9 - 19km NE of Putre, Chile",4.9,2019-10-08 00:18:04
+9,M 4.9 - South Shetland Islands,4.9,2019-10-07 23:09:08
+10,"M 4.3 - 151km ESE of Terney, Russia",4.3,2019-10-07 22:46:09
+11,M 4.6 - Reykjanes Ridge,4.6,2019-10-07 22:43:51
+12,"M 4.4 - 23km NNW of Bengkulu, Indonesia",4.4,2019-10-07 16:50:40
+13,"M 4.5 - 10km NW of Culaman, Philippines",4.5,2019-10-07 16:37:22
+14,"M 4.5 - 61km NNE of Meulaboh, Indonesia",4.5,2019-10-07 15:11:38
+15,"M 5.1 - 198km WSW of Kuripan, Indonesia",5.1,2019-10-07 14:09:31
+16,"M 4.6 - 83km N of Sikabaluan, Indonesia",4.6,2019-10-07 12:37:59
+17,M 4.6 - Prince Edward Islands region,4.6,2019-10-07 09:20:43
+18,M 4.8 - Western Indian-Antarctic Ridge,4.8,2019-10-07 08:22:12
+19,"M 4.7 - 17km NNE of Mongar, Bhutan",4.7,2019-10-07 06:35:46
+20,"M 4.9 - 27km S of Pagan, Northern Mariana Islands",4.9,2019-10-07 03:03:54
+21,"M 4.6 - 3km WNW of Marcellinara, Italy",4.6,2019-10-07 00:11:33
+22,"M 4.8 - 94km W of El Aguilar, Argentina",4.8,2019-10-06 22:50:46
+23,"M 4.2 - 10km S of Genova, Guatemala",4.2,2019-10-06 22:39:33
+24,"M 4.7 - 53km SSE of Isangel, Vanuatu",4.7,2019-10-06 21:46:47
+25,"M 4.9 - 20km S of Opotiki, New Zealand",4.9,2019-10-06 21:29:47
+26,"M 4.6 - 131km N of Road Town, British Virgin Islands",4.6,2019-10-06 19:02:14
+27,"M 5.3 - 84km S of Bristol Island, South Sandwich Islands",5.3,2019-10-06 18:16:58
+28,"M 4.6 - 21km SE of Yanai, Japan",4.6,2019-10-06 17:02:31
+29,"M 4.7 - 12km NNE of Farallon de Pajaros, Northern Mariana Islands",4.7,2019-10-06 15:21:00
+30,"M 4.9 - 146km W of Merizo Village, Guam",4.9,2019-10-06 11:40:46
+31,"M 5.0 - 19km SE of Bristol Island, South Sandwich Islands",5,2019-10-06 11:13:40
+32,"M 4.3 - 106km SW of Tocopilla, Chile",4.3,2019-10-06 10:19:16
+33,"M 4.0 - 61km SSW of Calama, Chile",4,2019-10-06 09:51:13
+34,"M 4.6 - 81km WNW of Kota Ternate, Indonesia",4.6,2019-10-06 09:50:34
+35,"M 5.0 - 113km N of Road Town, British Virgin Islands",4.96,2019-10-06 09:10:44
+36,"M 4.3 - 131km S of Tecoanapa, Mexico",4.3,2019-10-06 07:37:15
+37,"M 4.3 - 238km NNW of Saumlaki, Indonesia",4.3,2019-10-06 06:45:05
+38,"M 4.4 - 100km WSW of Langsa, Indonesia",4.4,2019-10-06 04:41:17
+39,"M 5.9 - 73km NNE of Calama, Chile",5.9,2019-10-06 04:40:55
+40,"M 4.3 - 51km ESE of Waitara, New Zealand",4.3,2019-10-06 04:00:36
+41,"M 4.6 - 91km E of Namie, Japan",4.6,2019-10-06 00:03:15
+42,"M 4.1 - 60km W of Sardinal, Costa Rica",4.1,2019-10-05 18:26:04
+43,"M 4.9 - 141km WSW of Naze, Japan",4.9,2019-10-05 14:32:24
+44,"M 4.9 - 134km WSW of Naze, Japan",4.9,2019-10-05 14:18:19
+45,"M 4.2 - 46km W of La Ligua, Chile",4.2,2019-10-05 12:57:58
+46,"M 4.6 - 86km SSE of Pondaguitan, Philippines",4.6,2019-10-05 11:11:08
+47,M 5.0 - Reykjanes Ridge,5,2019-10-05 11:01:40
+48,"M 4.9 - 23km NW of San Marcos, Mexico",4.9,2019-10-05 10:20:11
+49,"M 4.5 - 13km S of Lardos, Greece",4.5,2019-10-05 08:51:38
+50,"M 5.1 - 29km NNW of Finschhafen, Papua New Guinea",5.1,2019-10-05 08:28:49
+51,"M 4.9 - 206km NW of Saumlaki, Indonesia",4.9,2019-10-05 07:33:11
+52,"M 4.7 - 21km WNW of Agat Village, Guam",4.7,2019-10-05 05:40:00
+53,"M 4.7 - 78km NNW of Sola, Vanuatu",4.7,2019-10-05 00:10:52
+54,"M 4.6 - 47km W of Dobo, Indonesia",4.6,2019-10-04 23:27:27
+55,"M 5.0 - 29km WNW of Little Sitkin Island, Alaska",5,2019-10-04 21:48:16
+56,M 4.7 - Fiji region,4.7,2019-10-04 18:38:50
+57,"M 4.3 - 3km WSW of Samara, Costa Rica",4.3,2019-10-04 13:52:35
+58,"M 4.9 - 29km WNW of Panguna, Papua New Guinea",4.9,2019-10-04 11:03:49
+59,"M 4.0 - 48km WSW of Abra Pampa, Argentina",4,2019-10-04 08:55:05
+60,"M 5.0 - 63km NNW of Dobo, Indonesia",5,2019-10-04 07:19:30
+61,"M 5.0 - 71km WNW of Talkeetna, Alaska",5,2019-10-04 06:28:03
+62,"M 4.3 - 80km W of San Antonio de los Cobres, Argentina",4.3,2019-10-04 06:14:55
+63,"M 4.3 - 110km ENE of Hasaki, Japan",4.3,2019-10-04 04:57:31
+64,"M 4.0 - 62km NNW of San Antonio, Puerto Rico",4.04,2019-10-04 01:47:15
+65,M 4.8 - Scotia Sea,4.8,2019-10-04 00:14:12
+66,"M 4.9 - 93km W of Arica, Chile",4.9,2019-10-03 22:02:26
+67,"M 4.5 - 141km WNW of Coquimbo, Chile",4.5,2019-10-03 21:08:11
+68,"M 4.7 - 63km E of Bitung, Indonesia",4.7,2019-10-03 18:45:57
+69,"M 4.5 - 40km NE of Roshtqal'a, Tajikistan",4.5,2019-10-03 16:02:57
+70,"M 4.7 - 232km W of Abepura, Indonesia",4.7,2019-10-03 15:12:25
+71,"M 4.4 - 8km ESE of Jahrom, Iran",4.4,2019-10-03 12:27:23
+72,"M 4.3 - 206km W of Abepura, Indonesia",4.3,2019-10-03 12:26:11
+73,"M 5.5 - 251km W of Abepura, Indonesia",5.5,2019-10-03 08:33:09
+74,"M 4.8 - 243km ESE of Nikol'skoye, Russia",4.8,2019-10-03 03:48:42
+75,"M 4.5 - 115km ESE of Pangai, Tonga",4.5,2019-10-03 02:57:05
+76,"M 4.7 - 14km SSE of Pelau, Indonesia",4.7,2019-10-03 02:41:19
+77,"M 4.4 - 95km SW of Jiquilillo, Nicaragua",4.4,2019-10-03 01:34:56
+78,"M 4.9 - 8km ENE of Imphal, India",4.9,2019-10-03 00:24:44
+79,"M 4.4 - 37km WNW of Bantogon, Philippines",4.4,2019-10-03 00:11:09
+80,"M 4.6 - 14km NNW of Wawa, Philippines",4.6,2019-10-02 22:55:00
+81,"M 5.1 - 36km ESE of Faliraki, Greece",5.1,2019-10-02 22:44:56
+82,"M 4.7 - 128km ENE of Miyako, Japan",4.7,2019-10-02 21:55:46
+83,"M 4.9 - 53km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",4.9,2019-10-02 19:55:10
+84,"M 5.1 - 205km WSW of Visokoi Island, South Georgia and the South Sandwich Islands",5.1,2019-10-02 19:11:43
+85,"M 4.5 - 60km SE of Ozernovskiy, Russia",4.5,2019-10-02 18:39:25
+86,"M 4.3 - 49km W of Murghob, Tajikistan",4.3,2019-10-02 16:28:55
+87,"M 4.5 - 7km NW of Sechura, Peru",4.5,2019-10-02 15:43:00
+88,"M 4.6 - 76km SW of Banda Aceh, Indonesia",4.6,2019-10-02 15:38:19
+89,"M 4.6 - 132km NE of Agrihan, Northern Mariana Islands",4.6,2019-10-02 14:10:54
+90,"M 4.8 - 81km SE of San Pedro de Atacama, Chile",4.8,2019-10-02 11:26:50
+91,"M 4.5 - 124km SSE of Hachijo-jima, Japan",4.5,2019-10-02 08:58:49
+92,"M 4.4 - 138km ENE of Miyako, Japan",4.4,2019-10-02 08:54:25
+93,"M 5.1 - 196km W of Abepura, Indonesia",5.1,2019-10-02 08:24:31
+94,"M 4.5 - 0km S of Lucsuhin, Philippines",4.5,2019-10-02 07:53:22
+95,"M 4.2 - 109km SW of Kokopo, Papua New Guinea",4.2,2019-10-02 07:50:15
+96,"M 4.5 - 233km E of Amahai, Indonesia",4.5,2019-10-02 06:54:29
+97,"M 4.6 - 3km SE of Corredor, Costa Rica",4.6,2019-10-02 06:52:54
+98,"M 5.0 - 66km NNE of Xujiaba, China",5,2019-10-02 06:04:35
+99,"M 4.1 - 61km NNW of San Antonio, Puerto Rico",4.08,2019-10-02 05:08:11
+100,"M 4.4 - 109km ESE of Ol'ga, Russia",4.4,2019-10-02 05:04:16
+101,M 4.7 - Carlsberg Ridge,4.7,2019-10-02 04:29:55
+102,"M 5.2 - 39km S of San Mateo del Mar, Mexico",5.2,2019-10-02 04:13:11
+103,"M 4.1 - 50km S of San Mateo del Mar, Mexico",4.1,2019-10-02 04:07:14
+104,"M 4.1 - 67km NW of San Antonio de los Cobres, Argentina",4.1,2019-10-02 03:18:31
+105,"M 4.3 - 68km W of San Antonio de los Cobres, Argentina",4.3,2019-10-02 02:52:35
+106,"M 4.7 - 147km W of Coquimbo, Chile",4.7,2019-10-02 01:11:10
+107,"M 4.3 - 18km ESE of Farkhar, Afghanistan",4.3,2019-10-01 21:23:49
+108,"M 4.8 - 223km E of Yamada, Japan",4.8,2019-10-01 19:43:14
+109,M 5.2 - Southern Mid-Atlantic Ridge,5.2,2019-10-01 16:25:08
+110,"M 5.5 - 91km SSW of Macquarie Island, Australia",5.5,2019-10-01 13:57:10
+111,"M 4.6 - 84km NW of San Antonio de los Cobres, Argentina",4.6,2019-10-01 13:23:46
+112,"M 4.5 - 241km SE of Amahai, Indonesia",4.5,2019-10-01 05:42:54
+113,"M 4.2 - 7km SW of Santiago Pinotepa Nacional, Mexico",4.2,2019-10-01 05:26:58
+114,"M 4.5 - 46km SSE of Caucete, Argentina",4.5,2019-10-01 03:46:40
+115,"M 4.2 - 67km E of Akutan, Alaska",4.2,2019-10-01 03:15:46
+116,M 5.2 - Broken Ridge,5.2,2019-10-01 01:41:53
+117,"M 4.9 - 254km NNW of Farallon de Pajaros, Northern Mariana Islands",4.9,2019-10-01 00:32:19
+118,"M 5.3 - 37km SE of Wairoa, New Zealand",5.3,2019-09-30 23:16:38
+119,"M 4.4 - 113km W of El Aguilar, Argentina",4.4,2019-09-30 22:26:18
+120,M 5.9 - Southern East Pacific Rise,5.9,2019-09-30 21:56:07
+121,"M 4.3 - 38km S of La Libertad, El Salvador",4.3,2019-09-30 21:06:30
+122,"M 4.3 - 23km SSW of Nueva Concepcion, Guatemala",4.3,2019-09-30 20:45:35
+123,"M 4.4 - 9km S of Taitung City, Taiwan",4.4,2019-09-30 20:17:50
+124,"M 4.5 - 9km NE of Cruz Grande, Mexico",4.5,2019-09-30 17:15:35
+125,"M 4.0 - 20km N of Snyder, Texas",4,2019-09-30 15:47:12
+126,"M 4.3 - 38km S of San Mateo del Mar, Mexico",4.3,2019-09-30 15:31:37
+127,"M 4.3 - 86km NW of Queenstown, New Zealand",4.3,2019-09-30 15:07:27
+128,"M 4.6 - 58km ESE of Madang, Papua New Guinea",4.6,2019-09-30 12:40:41
+129,"M 5.0 - 94km ESE of Ol'ga, Russia",5,2019-09-30 11:56:07
+130,"M 4.6 - 128km SW of Kokopo, Papua New Guinea",4.6,2019-09-30 09:37:32
+131,"M 4.3 - 66km WSW of Constitucion, Chile",4.3,2019-09-30 09:17:37
+132,"M 4.7 - 142km SSE of Lambasa, Fiji",4.7,2019-09-30 07:39:33
+133,"M 4.7 - 140km SSE of Lambasa, Fiji",4.7,2019-09-30 07:30:10
+134,"M 4.5 - 45km N of Arzak, China",4.5,2019-09-30 06:24:25
+135,"M 5.6 - 40km NE of Calama, Chile",5.6,2019-09-30 05:53:22
+136,"M 4.4 - 65km WSW of Constitucion, Chile",4.4,2019-09-30 04:35:16
+137,M 4.7 - Kuril Islands,4.7,2019-09-30 04:32:12
+138,"M 4.8 - 158km WNW of Constitucion, Chile",4.8,2019-09-30 03:21:50
+139,"M 4.7 - 42km ESE of General Luna, Philippines",4.7,2019-09-30 00:10:16
+140,"M 4.1 - 179km SE of Kuqa, China",4.1,2019-09-30 00:04:15
+141,"M 4.4 - 64km S of Gefyra, Greece",4.4,2019-09-29 23:39:32
+142,"M 4.7 - 50km WSW of Constitucion, Chile",4.7,2019-09-29 22:49:34
+143,"M 4.9 - 121km SW of Kokopo, Papua New Guinea",4.9,2019-09-29 22:35:30
+144,"M 4.3 - 57km SSW of Acajutla, El Salvador",4.3,2019-09-29 19:03:59
+145,"M 5.2 - 89km SSW of Acajutla, El Salvador",5.2,2019-09-29 15:00:01
+146,"M 4.4 - 66km SSW of Acajutla, El Salvador",4.4,2019-09-29 14:25:16
+147,"M 5.3 - 54km WSW of Constitucion, Chile",5.3,2019-09-29 14:11:58
+148,"M 4.4 - 73km WSW of Constitucion, Chile",4.4,2019-09-29 12:45:58
+149,"M 4.5 - 62km WSW of Constitucion, Chile",4.5,2019-09-29 12:28:36
+150,"M 4.5 - 143km NW of Tobelo, Indonesia",4.5,2019-09-29 12:02:20
+151,"M 4.4 - 87km W of Constitucion, Chile",4.4,2019-09-29 11:48:10
+152,"M 4.8 - 143km NW of Tobelo, Indonesia",4.8,2019-09-29 11:41:56
+153,"M 4.3 - 65km WSW of Constitucion, Chile",4.3,2019-09-29 11:12:35
+154,"M 4.0 - 265km SE of Kodiak, Alaska",4,2019-09-29 10:45:00
+155,"M 4.7 - 70km WSW of Constitucion, Chile",4.7,2019-09-29 10:39:55
+156,"M 4.2 - 63km W of Constitucion, Chile",4.2,2019-09-29 10:21:35
+157,"M 4.0 - 75km WSW of Constitucion, Chile",4,2019-09-29 10:13:01
+158,"M 5.2 - 75km W of Constitucion, Chile",5.2,2019-09-29 10:09:46
+159,"M 4.9 - 8km SSW of Hitachi, Japan",4.9,2019-09-29 10:02:32
+160,"M 6.7 - 69km WSW of Constitucion, Chile",6.7,2019-09-29 09:57:53
+161,M 4.9 - Carlsberg Ridge,4.9,2019-09-29 08:10:14
+162,M 5.3 - Carlsberg Ridge,5.3,2019-09-29 07:44:52
+163,"M 4.5 - 99km SSE of Pondaguitan, Philippines",4.5,2019-09-29 07:11:17
+164,"M 4.5 - 74km W of San Antonio de los Cobres, Argentina",4.5,2019-09-29 06:32:54
+165,"M 5.0 - 85km NNW of Dibulla, Colombia",5,2019-09-29 05:19:59
+166,"M 4.5 - 29km ENE of Palomares, Mexico",4.5,2019-09-29 04:45:45
+167,"M 4.2 - 100km W of San Antonio de los Cobres, Argentina",4.2,2019-09-29 03:50:00
+168,"M 4.7 - 141km WSW of Bamboo Flat, India",4.7,2019-09-29 03:02:12
+169,"M 5.1 - 88km SSE of Pondaguitan, Philippines",5.1,2019-09-29 01:40:18
+170,"M 4.4 - 23km SSE of General Enrique Mosconi, Argentina",4.4,2019-09-28 23:21:23
+171,"M 4.8 - 194km NNW of Farallon de Pajaros, Northern Mariana Islands",4.8,2019-09-28 21:48:18
+172,"M 4.3 - 146km N of Calama, Chile",4.3,2019-09-28 20:14:57
+173,"M 6.2 - 84km SSE of Pondaguitan, Philippines",6.2,2019-09-28 20:02:52
+174,"M 4.4 - 83km WNW of El Aguilar, Argentina",4.4,2019-09-28 19:14:13
+175,"M 5.1 - 122km ESE of Novaya Chara, Russia",5.1,2019-09-28 15:28:09
+176,"M 4.9 - 31km N of Lae, Papua New Guinea",4.9,2019-09-28 14:01:29
+177,"M 5.0 - 300km NNE of Amsterdam Island, France",5,2019-09-28 12:19:15
+178,"M 4.5 - 19km SSW of Rota, Northern Mariana Islands",4.5,2019-09-28 11:09:36
+179,"M 4.0 - 128km SSE of San Pedro de Atacama, Chile",4,2019-09-28 02:00:26
+180,"M 4.6 - 110km SSE of Putre, Chile",4.6,2019-09-28 01:23:29
+181,"M 4.3 - 124km SW of Pijijiapan, Mexico",4.3,2019-09-27 22:15:02
+182,"M 5.2 - 261km SW of Vaini, Tonga",5.2,2019-09-27 22:07:58
+183,"M 4.3 - 55km ENE of Vinchina, Argentina",4.3,2019-09-27 19:53:02
+184,"M 4.8 - 77km SE of Unalaska, Alaska",4.8,2019-09-27 17:27:32
+185,M 4.5 - South of the Fiji Islands,4.5,2019-09-27 16:27:50
+186,"M 4.9 - 82km SSE of Haswayn, Yemen",4.9,2019-09-27 11:48:27
+187,"M 4.7 - 145km E of Neiafu, Tonga",4.7,2019-09-27 09:15:44
+188,M 5.8 - Southeast of Easter Island,5.8,2019-09-27 09:11:29
+189,"M 5.0 - 85km S of Raoul Island, New Zealand",5,2019-09-27 08:02:06
+190,"M 4.6 - 23km E of Orcopampa, Peru",4.6,2019-09-27 07:57:41
+191,"M 4.3 - 17km N of El Angel, Ecuador",4.3,2019-09-27 07:44:43
+192,"M 6.0 - 96km S of Raoul Island, New Zealand",6,2019-09-27 06:05:02
+193,"M 4.6 - 81km SSW of Calama, Chile",4.6,2019-09-27 05:21:24
+194,"M 4.6 - 44km SE of Ofunato, Japan",4.6,2019-09-27 05:11:00
+195,"M 5.0 - Southern Xinjiang, China",5,2019-09-27 04:58:29
+196,"M 4.1 - 61km SE of Unalaska, Alaska",4.1,2019-09-27 02:01:44
+197,"M 4.4 - 144km N of Calama, Chile",4.4,2019-09-27 01:29:35
+198,"M 4.5 - 54km SSW of Campoverde, Peru",4.5,2019-09-26 22:32:43
+199,"M 4.7 - 49km N of San Antonio, Puerto Rico",4.7,2019-09-26 21:51:38
+200,"M 4.6 - 109km S of Kushiro, Japan",4.6,2019-09-26 21:32:29
+201,"M 4.4 - 239km ENE of Dili, East Timor",4.4,2019-09-26 21:25:36
+202,"M 5.0 - 156km NNW of Visokoi Island, South Georgia and the South Sandwich Islands",5,2019-09-26 21:19:01
+203,"M 4.8 - 38km ENE of Pucallpa, Peru",4.8,2019-09-26 21:17:59
+204,"M 4.6 - 155km SSW of Ndoi Island, Fiji",4.6,2019-09-26 20:29:39
+205,M 5.2 - South of the Fiji Islands,5.2,2019-09-26 20:18:41
+206,"M 4.0 - 51km S of Yunaska Island, Alaska",4,2019-09-26 20:00:00
+207,"M 4.5 - 24km SSE of Nishinoomote, Japan",4.5,2019-09-26 18:41:06
+208,"M 4.2 - 132km NW of Fort Liard, Canada",4.2,2019-09-26 17:32:06
+209,"M 4.1 - 72km WNW of San Antonio de los Cobres, Argentina",4.1,2019-09-26 16:18:11
+210,"M 5.4 - 11km NNW of Coquimbo, Chile",5.4,2019-09-26 14:31:29
+211,"M 4.3 - 24km SE of Marmaraereglisi, Turkey",4.3,2019-09-26 14:20:18
+212,"M 4.7 - 161km SW of Bamboo Flat, India",4.7,2019-09-26 13:15:32
+213,"M 5.1 - 60km SSW of Honiara, Solomon Islands",5.1,2019-09-26 13:07:40
+214,"M 4.6 - 95km SSW of Biha, Indonesia",4.6,2019-09-26 13:03:14
+215,M 5.5 - Central East Pacific Rise,5.5,2019-09-26 13:00:41
+216,"M 4.9 - 272km E of Qiemo, China",4.9,2019-09-26 11:17:12
+217,"M 6.1 - 30km WSW of Villa La Angostura, Argentina",6.1,2019-09-26 10:36:18
+218,"M 4.9 - 187km ENE of Raoul Island, New Zealand",4.9,2019-09-26 07:07:00
+219,"M 4.4 - 15km SSE of Lamjung, Nepal",4.4,2019-09-26 07:04:21
+220,"M 4.8 - 212km W of Frontera, Spain",4.8,2019-09-26 07:02:08
+221,"M 4.4 - 23km ESE of Marmaraereglisi, Turkey",4.4,2019-09-26 05:26:37
+222,"M 5.1 - 153km SE of Kandrian, Papua New Guinea",5.1,2019-09-26 05:08:36
+223,"M 5.7 - 20km ESE of Marmaraereglisi, Turkey",5.7,2019-09-26 04:59:26
+224,"M 4.8 - 151km ESE of Nago, Japan",4.8,2019-09-26 04:31:40
+225,"M 4.5 - 25km S of Sola, Vanuatu",4.5,2019-09-26 03:47:00
+226,"M 4.7 - 4km WNW of New Mirpur, Pakistan",4.7,2019-09-26 01:01:26
+227,"M 4.5 - 38km SSW of Karakul, Tajikistan",4.5,2019-09-26 00:57:06
+228,"M 4.2 - 15km ESE of Tulehu, Indonesia",4.2,2019-09-25 23:28:41
+229,"M 4.2 - 55km NNW of Isabela, Puerto Rico",4.2,2019-09-25 20:12:39
+230,"M 4.8 - 22km SSW of Nemuro, Japan",4.8,2019-09-25 20:12:25
+231,"M 4.6 - 107km NE of Kurumkan, Russia",4.6,2019-09-25 19:22:25
+232,"M 5.4 - 10km S of Pelau, Indonesia",5.4,2019-09-25 18:39:59
+233,"M 4.3 - 29km SSW of Kuhdasht, Iran",4.3,2019-09-25 18:35:31
+234,"M 6.5 - 10km S of Kairatu, Indonesia",6.5,2019-09-25 17:46:44
+235,"M 4.6 - 19km NNW of Cempa, Indonesia",4.6,2019-09-25 17:44:27
+236,"M 4.1 - 93km W of El Aguilar, Argentina",4.1,2019-09-25 15:59:47
+237,"M 4.8 - 31km E of Aras-asan, Philippines",4.8,2019-09-25 14:57:35
+238,M 5.4 - Southern Mid-Atlantic Ridge,5.4,2019-09-25 14:18:30
+239,M 5.2 - Southern Mid-Atlantic Ridge,5.2,2019-09-25 14:15:54
+240,"M 5.2 - 86km NNE of Finschhafen, Papua New Guinea",5.2,2019-09-25 13:54:28
+241,"M 5.3 - 36km SE of Belen, Argentina",5.3,2019-09-25 13:43:22
+242,"M 5.3 - 5km WSW of Ambunti, Papua New Guinea",5.3,2019-09-25 09:57:33
+243,"M 4.5 - 156km S of Pirgos, Greece",4.5,2019-09-25 09:21:51
+244,"M 4.6 - 169km NNW of Dili, East Timor",4.6,2019-09-25 08:39:27
+245,"M 4.0 - 16km SW of Healy, Alaska",4,2019-09-25 07:45:13
+246,"M 4.6 - 29km SSE of Les Cayes, Haiti",4.6,2019-09-25 07:44:37
+247,"M 4.9 - 245km SE of Lambasa, Fiji",4.9,2019-09-25 07:04:41
+248,"M 4.4 - 30km W of Piru, Indonesia",4.4,2019-09-25 05:35:59
+249,"M 4.9 - 155km ESE of Ohara, Japan",4.9,2019-09-25 03:29:33
+250,"M 4.9 - 16km E of Otsuchi, Japan",4.9,2019-09-25 02:28:49
+251,"M 4.8 - 63km NE of Bristol Island, South Sandwich Islands",4.8,2019-09-25 01:28:08
+252,"M 5.2 - 164km NE of Neiafu, Tonga",5.2,2019-09-24 22:29:11
+253,"M 4.4 - 1km SE of Durres, Albania",4.4,2019-09-24 19:24:03
+254,"M 4.4 - 62km N of Isabela, Puerto Rico",4.41,2019-09-24 19:05:10
+255,"M 4.8 - 33km SSW of Ndoi Island, Fiji",4.8,2019-09-24 19:02:05
+256,M 4.5 - South of the Fiji Islands,4.5,2019-09-24 18:17:44
+257,"M 4.8 - 68km N of San Antonio, Puerto Rico",4.84,2019-09-24 18:12:09
+258,M 4.9 - Southwest Indian Ridge,4.9,2019-09-24 15:29:40
+259,M 5.1 - Southwest Indian Ridge,5.1,2019-09-24 15:25:10
+260,M 6.1 - Southwest Indian Ridge,6.1,2019-09-24 15:19:47
+261,M 5.1 - Southwest Indian Ridge,5.1,2019-09-24 15:12:01
+262,"M 4.7 - 298km N of Tobelo, Indonesia",4.7,2019-09-24 10:55:20
+263,"M 4.5 - 65km E of Hualian, Taiwan",4.5,2019-09-24 10:48:14
+264,"M 4.1 - 251km N of Scott Island Bank, Antarctica",4.1,2019-09-24 10:45:38
+265,"M 4.1 - 276km N of Ndoi Island, Fiji",4.1,2019-09-24 08:34:53
+266,"M 4.6 - 224km ESE of Boddam, United Kingdom",4.6,2019-09-24 07:38:14
+267,"M 4.3 - 22km SSE of Jarm, Afghanistan",4.3,2019-09-24 05:38:53
+268,"M 5.6 - 3km S of New Mirpur, Pakistan",5.6,2019-09-24 05:01:55
+269,"M 4.5 - Kepulauan Barat Daya, Indonesia",4.5,2019-09-24 04:27:01
+270,"M 4.7 - 214km SSE of Tonosi, Panama",4.7,2019-09-24 04:15:56
+271,"M 4.9 - 16km W of San Nicolas, Philippines",4.9,2019-09-24 03:42:46
+272,"M 4.7 - 35km ESE of Masjed Soleyman, Iran",4.7,2019-09-24 03:02:00
+273,"M 4.3 - 78km SW of Champerico, Guatemala",4.3,2019-09-24 02:59:40
+274,"M 4.3 - 41km WSW of Porgera, Papua New Guinea",4.3,2019-09-24 02:01:36
+275,"M 4.9 - 23km S of Silivri, Turkey",4.9,2019-09-24 02:00:24
+276,"M 4.9 - 90km SSE of Makry Gialos, Greece",4.9,2019-09-24 01:48:57
+277,"M 5.3 - 41km SE of Ndoi Island, Fiji",5.3,2019-09-24 01:18:38
+278,"M 4.3 - 63km NNW of San Antonio, Puerto Rico",4.27,2019-09-23 22:09:51
+279,"M 4.5 - 202km W of Broome, Australia",4.5,2019-09-23 21:51:38
+280,"M 4.4 - 65km N of San Antonio, Puerto Rico",4.4,2019-09-23 21:51:09
+281,"M 5.1 - 54km NNW of San Antonio, Puerto Rico",5.06,2019-09-23 21:32:41
+282,"M 6.0 - 69km NNW of San Antonio, Puerto Rico",6,2019-09-23 21:23:40
+283,"M 4.4 - 122km SE of Petropavlovsk-Kamchatskiy, Russia",4.4,2019-09-23 17:20:35
+284,"M 4.9 - 121km SE of Petropavlovsk-Kamchatskiy, Russia",4.9,2019-09-23 15:55:00
+285,"M 4.1 - 142km ESE of Nikolski, Alaska",4.1,2019-09-23 14:14:20
+286,"M 4.3 - 117km SSW of Sigave, Wallis and Futuna",4.3,2019-09-23 13:53:26
+287,"M 4.0 - 135km ESE of Nikolski, Alaska",4,2019-09-23 12:04:43
+288,"M 4.0 - 154km ESE of Nikolski, Alaska",4,2019-09-23 11:56:54
+289,"M 5.3 - 139km ESE of Nikolski, Alaska",5.3,2019-09-23 11:51:09
+290,"M 4.2 - 114km SSW of Ndoi Island, Fiji",4.2,2019-09-23 10:24:18
+291,M 4.2 - Southeast Indian Ridge,4.2,2019-09-23 09:33:37
+292,"M 4.7 - 30km E of Aras-asan, Philippines",4.7,2019-09-23 08:34:47
+293,"M 4.5 - 88km SE of Farallon de Pajaros, Northern Mariana Islands",4.5,2019-09-23 08:18:37
+294,"M 4.2 - 133km W of Hihifo, Tonga",4.2,2019-09-23 08:02:48
+295,M 4.1 - South of the Fiji Islands,4.1,2019-09-23 07:27:07
+296,"M 4.4 - 52km SE of Severobaykal'sk, Russia",4.4,2019-09-23 05:31:16
+297,"M 4.3 - 23km NW of Motuo, China",4.3,2019-09-23 03:36:25
+298,"M 4.2 - 76km NNE of Santa Rosalia, Mexico",4.2,2019-09-23 03:28:43
+299,"M 5.2 - 166km NNE of Rumung, Micronesia",5.2,2019-09-23 02:54:22
+300,"M 5.3 - 96km NW of Talcahuano, Chile",5.3,2019-09-23 02:24:39
+301,"M 4.4 - 54km N of Karpathos, Greece",4.4,2019-09-23 01:09:03
+302,"M 4.3 - 90km S of Pangai, Tonga",4.3,2019-09-22 21:51:02
+303,"M 4.6 - 162km E of Nago, Japan",4.6,2019-09-22 19:47:04
+304,M 4.3 - Carlsberg Ridge,4.3,2019-09-22 18:40:31
+305,"M 4.5 - 121km WNW of Arawa, Papua New Guinea",4.5,2019-09-22 17:24:19
+306,"M 5.1 - 232km SW of Biha, Indonesia",5.1,2019-09-22 16:32:24
+307,"M 4.2 - 217km NNE of Kali, Indonesia",4.2,2019-09-22 16:22:35
+308,"M 4.6 - 16km WSW of Coahuayana, Mexico",4.6,2019-09-22 16:12:31
+309,"M 4.5 - 9km WNW of Fushe-Kruje, Albania",4.5,2019-09-22 14:08:41
+310,"M 4.7 - 281km N of Ndoi Island, Fiji",4.7,2019-09-22 10:29:55
+311,"M 4.5 - 12km SE of Chame, Nepal",4.5,2019-09-22 10:17:01
+312,M 4.4 - Carlsberg Ridge,4.4,2019-09-22 08:34:20
+313,"M 4.6 - 286km NNW of Chichi-shima, Japan",4.6,2019-09-22 08:15:27
+314,"M 4.5 - 29km SE of Jarm, Afghanistan",4.5,2019-09-22 07:42:11
+315,"M 4.5 - 172km NNW of Arawa, Papua New Guinea",4.5,2019-09-22 02:58:54
+316,"M 5.6 - 79km ENE of Hihifo, Tonga",5.6,2019-09-22 01:32:33
+317,"M 4.9 - 34km ENE of Tambo, Peru",4.9,2019-09-21 23:28:24
+318,"M 4.9 - 24km W of Baghlan, Afghanistan",4.9,2019-09-21 23:02:47
+319,"M 4.2 - 115km ENE of Bristol Island, South Sandwich Islands",4.2,2019-09-21 22:39:45
+320,"M 4.4 - 196km SSW of Ndoi Island, Fiji",4.4,2019-09-21 22:27:39
+321,"M 4.5 - 7km SE of Churachandpur, India",4.5,2019-09-21 20:31:23
+322,"M 4.9 - 6km W of Paredon, Mexico",4.9,2019-09-21 19:50:24
+323,"M 5.2 - 251km E of L'Esperance Rock, New Zealand",5.2,2019-09-21 19:25:18
+324,"M 4.9 - 12km N of Aratoca, Colombia",4.9,2019-09-21 18:36:45
+325,"M 4.4 - 4km W of Shijak, Albania",4.4,2019-09-21 18:28:10
+326,"M 4.2 - 100km SSE of Little Sitkin Island, Alaska",4.2,2019-09-21 18:24:20
+327,"M 4.7 - 209km SSE of Hachijo-jima, Japan",4.7,2019-09-21 17:52:46
+328,"M 4.3 - 107km SSE of Little Sitkin Island, Alaska",4.3,2019-09-21 17:30:38
+329,"M 4.4 - 168km ESE of Vostok, Russia",4.4,2019-09-21 17:15:44
+330,"M 4.2 - 166km NNW of Saumlaki, Indonesia",4.2,2019-09-21 17:11:37
+331,"M 4.7 - 101km SSE of Little Sitkin Island, Alaska",4.7,2019-09-21 17:00:46
+332,"M 4.6 - 82km SW of Corinto, Nicaragua",4.6,2019-09-21 16:51:11
+333,"M 4.3 - 76km W of Sinabang, Indonesia",4.3,2019-09-21 16:32:47
+334,"M 4.0 - 2km NE of Magdug, Philippines",4,2019-09-21 16:26:06
+335,"M 4.1 - 65km ESE of Kirakira, Solomon Islands",4.1,2019-09-21 16:08:04
+336,"M 4.8 - 4km WNW of Shijak, Albania",4.8,2019-09-21 16:07:31
+337,"M 4.9 - 102km ESE of Caburan, Philippines",4.9,2019-09-21 15:32:34
+338,"M 4.7 - 7km W of Agropoli, Italy",4.7,2019-09-21 13:55:48
+339,"M 5.9 - 186km NNW of Saumlaki, Indonesia",5.9,2019-09-21 13:53:10
+340,"M 4.3 - 268km S of L'Esperance Rock, New Zealand",4.3,2019-09-21 13:34:55
+341,"M 4.6 - 47km NW of San Agustin de Valle Fertil, Argentina",4.6,2019-09-21 12:48:16
+342,"M 4.7 - 6km WNW of Shijak, Albania",4.7,2019-09-21 10:10:37
+343,"M 5.1 - 9km NNW of Shijak, Albania",5.1,2019-09-21 08:15:52
+344,"M 5.6 - 6km N of Durres, Albania",5.6,2019-09-21 08:04:24
+345,"M 4.6 - 30km ESE of Roghun, Tajikistan",4.6,2019-09-21 05:30:58
+346,"M 4.0 - 59km WSW of Yonakuni, Japan",4,2019-09-21 05:05:38
+347,"M 4.2 - 64km E of Onguday, Russia",4.2,2019-09-21 01:35:05
+348,"M 4.1 - 59km WSW of Lebu, Chile",4.1,2019-09-21 00:12:31
+349,"M 4.7 - 31km E of Aras-asan, Philippines",4.7,2019-09-20 23:57:04
+350,"M 4.2 - 216km SW of Leksula, Indonesia",4.2,2019-09-20 22:25:25
+351,"M 4.8 - 0km NNW of Tsant, Mongolia",4.8,2019-09-20 20:41:10
+352,M 4.7 - Southern East Pacific Rise,4.7,2019-09-20 19:00:30
+353,"M 4.5 - 68km ENE of Calama, Chile",4.5,2019-09-20 18:36:06
+354,"M 4.6 - 107km ENE of Laiwui, Indonesia",4.6,2019-09-20 17:16:06
+355,"M 4.1 - 206km ESE of Kimbe, Papua New Guinea",4.1,2019-09-20 15:46:04
+356,"M 4.4 - 118km ENE of Laiwui, Indonesia",4.4,2019-09-20 15:35:18
+357,"M 4.6 - 2km W of Sambelia, Indonesia",4.6,2019-09-20 15:22:18
+358,"M 4.6 - 182km ESE of Neiafu, Tonga",4.6,2019-09-20 15:10:05
+359,"M 4.3 - 200km E of Neiafu, Tonga",4.3,2019-09-20 15:09:23
+360,"M 5.0 - 118km ENE of Laiwui, Indonesia",5,2019-09-20 14:59:15
+361,M 4.6 - South of the Fiji Islands,4.6,2019-09-20 13:49:29
+362,"M 5.4 - 143km SSW of Lakatoro, Vanuatu",5.4,2019-09-20 12:20:07
+363,"M 4.8 - 19km ENE of Panganiban, Philippines",4.8,2019-09-20 12:04:21
+364,"M 4.5 - 72km W of Vallenar, Chile",4.5,2019-09-20 10:33:52
+365,"M 4.4 - 90km SSW of Chirilagua, El Salvador",4.4,2019-09-20 06:16:43
+366,"M 5.1 - 167km E of Neiafu, Tonga",5.1,2019-09-20 03:19:12
+367,"M 5.3 - 151km ENE of Neiafu, Tonga",5.3,2019-09-20 03:13:40
+368,"M 5.0 - 202km ENE of Neiafu, Tonga",5,2019-09-20 02:00:14
+369,"M 5.4 - 205km ENE of Neiafu, Tonga",5.4,2019-09-19 23:28:25
+370,"M 4.8 - 110km E of L'Esperance Rock, New Zealand",4.8,2019-09-19 19:59:17
+371,M 4.4 - South of the Fiji Islands,4.4,2019-09-19 18:12:50
+372,"M 5.1 - 101km SW of Kokopo, Papua New Guinea",5.1,2019-09-19 17:59:41
+373,"M 4.1 - 292km SE of Lambasa, Fiji",4.1,2019-09-19 17:43:31
+374,"M 4.5 - 85km ESE of Kuqa, China",4.5,2019-09-19 13:43:09
+375,"M 4.3 - 181km SE of Amahai, Indonesia",4.3,2019-09-19 13:39:22
+376,"M 5.0 - 222km NNW of Tobelo, Indonesia",5,2019-09-19 13:09:50
+377,"M 4.7 - 17km SW of Mouzaki, Greece",4.7,2019-09-19 12:33:16
+378,"M 4.0 - 24km WNW of Santa Lucia, Ecuador",4,2019-09-19 11:55:26
+379,"M 4.5 - 59km NW of Kefamenanu, Indonesia",4.5,2019-09-19 11:28:06
+380,"M 5.1 - 161km S of `Ohonua, Tonga",5.1,2019-09-19 10:02:26
+381,M 4.5 - South of the Fiji Islands,4.5,2019-09-19 07:52:03
+382,"M 4.5 - 10km E of Talisay, Philippines",4.5,2019-09-19 05:47:21
+383,"M 4.8 - 242km SSW of Leksula, Indonesia",4.8,2019-09-19 04:32:04
+384,"M 4.3 - 94km WNW of Copiapo, Chile",4.3,2019-09-19 03:54:16
+385,"M 4.5 - 61km NNE of Calama, Chile",4.5,2019-09-19 03:42:57
+386,"M 5.7 - 76km NNE of Blimbing, Indonesia",5.7,2019-09-19 01:32:58
+387,"M 6.0 - 71km NNE of Sumbersari, Indonesia",6,2019-09-19 01:32:00
+388,"M 6.2 - 73km NNE of Pendok, Indonesia",6.2,2019-09-19 01:06:33
+389,"M 4.4 - 76km NNE of Bitung, Indonesia",4.4,2019-09-19 00:46:23
+390,"M 4.5 - 85km SW of Amahusu, Indonesia",4.5,2019-09-18 20:50:39
+391,"M 4.2 - 27km W of Taupo, New Zealand",4.2,2019-09-18 18:35:39
+392,"M 4.5 - 7km ESE of Funaishikawa, Japan",4.5,2019-09-18 17:49:28
+393,"M 4.3 - 59km NNW of San Antonio de los Cobres, Argentina",4.3,2019-09-18 16:59:49
+394,"M 4.8 - 104km WNW of Neiafu, Tonga",4.8,2019-09-18 14:54:06
+395,"M 4.4 - 100km NNE of Hihifo, Tonga",4.4,2019-09-18 13:48:20
+396,"M 4.4 - 2km NW of Arroyo Salado, Dominican Republic",4.4,2019-09-18 13:34:52
+397,"M 4.2 - 8km WNW of Rotorua, New Zealand",4.2,2019-09-18 12:35:03
+398,"M 4.8 - 248km E of Bouvet Island, Bouvet Island",4.8,2019-09-18 12:15:29
+399,"M 5.1 - 55km NNW of Alotau, Papua New Guinea",5.1,2019-09-18 10:10:18
+400,"M 5.0 - 291km E of Bouvet Island, Bouvet Island",5,2019-09-18 10:00:53
+401,"M 4.1 - 100km NNW of Agrihan, Northern Mariana Islands",4.1,2019-09-18 09:59:39
+402,"M 4.9 - 81km NNE of Shikotan, Russia",4.9,2019-09-18 09:22:34
+403,"M 5.3 - 168km SSW of Kulumadau, Papua New Guinea",5.3,2019-09-18 08:46:24
+404,"M 4.4 - 62km ESE of Acari, Peru",4.4,2019-09-18 07:13:54
+405,"M 4.7 - 90km E of Sarangani, Philippines",4.7,2019-09-18 06:04:04
+406,"M 5.4 - 295km E of Bouvet Island, Bouvet Island",5.4,2019-09-18 05:54:59
+407,"M 4.7 - 17km E of Quepos, Costa Rica",4.7,2019-09-18 05:23:28
+408,"M 4.6 - 248km ESE of Lambasa, Fiji",4.6,2019-09-18 02:48:17
+409,"M 5.5 - 112km SSE of Pondaguitan, Philippines",5.5,2019-09-18 01:01:01
+410,"M 5.1 - 153km WSW of Panguna, Papua New Guinea",5.1,2019-09-18 00:26:09
+411,"M 5.1 - 81km WNW of Rabaul, Papua New Guinea",5.1,2019-09-18 00:22:48
+412,"M 4.2 - 83km S of Arica, Chile",4.2,2019-09-17 23:36:24
+413,"M 4.8 - 31km SE of Puerto Limon, Costa Rica",4.8,2019-09-17 22:58:53
+414,"M 5.1 - 92km NNE of Laiwui, Indonesia",5.1,2019-09-17 21:58:52
+415,"M 5.0 - 76km S of Kuril'sk, Russia",5,2019-09-17 20:54:28
+416,"M 4.6 - 218km ENE of Neiafu, Tonga",4.6,2019-09-17 19:42:20
+417,"M 4.6 - 27km NE of Halabjah, Iraq",4.6,2019-09-17 13:29:56
+418,"M 4.3 - 117km NNE of Calama, Chile",4.3,2019-09-17 13:22:25
+419,"M 4.5 - 12km S of Genova, Guatemala",4.5,2019-09-17 13:11:42
+420,"M 4.6 - 151km SSE of Sarangani, Philippines",4.6,2019-09-17 12:45:27
+421,"M 4.4 - 136km W of Lata, Solomon Islands",4.4,2019-09-17 10:52:51
+422,"M 5.2 - 130km SSW of Lorengau, Papua New Guinea",5.2,2019-09-17 10:03:20
+423,"M 4.6 - 64km SSW of Hihifo, Tonga",4.6,2019-09-17 09:51:18
+424,"M 4.5 - 29km SSW of Tilamuta, Indonesia",4.5,2019-09-17 08:37:58
+425,"M 4.4 - 10km NNW of Cempa, Indonesia",4.4,2019-09-17 08:36:50
+426,"M 5.1 - 73km ESE of Lata, Solomon Islands",5.1,2019-09-17 08:10:19
+427,M 5.4 - Azores Islands region,5.4,2019-09-17 07:51:33
+428,"M 4.5 - 92km E of Hachijo-jima, Japan",4.5,2019-09-17 07:17:34
+429,"M 4.2 - 41km SSW of Jarm, Afghanistan",4.2,2019-09-17 05:04:19
+430,"M 4.7 - 120km SSE of Bitung, Indonesia",4.7,2019-09-17 04:30:07
+431,"M 4.5 - 62km WSW of Uyuni, Bolivia",4.5,2019-09-17 03:17:48
+432,M 4.9 - South of the Fiji Islands,4.9,2019-09-17 02:25:53
+433,"M 5.2 - 42km W of Willow, Alaska",5.2,2019-09-16 19:09:56
+434,"M 4.7 - 274km NW of Neiafu, Tonga",4.7,2019-09-16 17:45:28
+435,"M 4.9 - 81km SW of Hihifo, Tonga",4.9,2019-09-16 17:45:15
+436,"M 4.3 - 28km N of Ust'-Kamchatsk Staryy, Russia",4.3,2019-09-16 14:32:52
+437,"M 4.3 - 46km NNE of Bandar 'Abbas, Iran",4.3,2019-09-16 14:03:22
+438,"M 4.0 - 276km NNE of Bamboo Flat, India",4,2019-09-16 12:49:44
+439,"M 4.5 - 99km SSE of Putre, Chile",4.5,2019-09-16 12:39:44
+440,"M 4.4 - 31km N of Qazvin, Iran",4.4,2019-09-16 10:58:49
+441,"M 4.5 - 47km N of Bandar 'Abbas, Iran",4.5,2019-09-16 10:55:41
+442,"M 4.1 - 218km ENE of Hasaki, Japan",4.1,2019-09-16 10:27:43
+443,"M 4.7 - 17km S of Se'ergu, China",4.7,2019-09-16 10:14:11
+444,"M 4.5 - 66km NNE of Calama, Chile",4.5,2019-09-16 10:04:57
+445,"M 4.4 - 90km NE of Palue, Indonesia",4.4,2019-09-16 09:36:52
+446,"M 4.5 - 46km SE of Hihifo, Tonga",4.5,2019-09-16 09:22:29
+447,"M 4.5 - 289km SE of Lambasa, Fiji",4.5,2019-09-16 08:40:49
+448,"M 4.5 - 26km SE of Darchula, Nepal",4.5,2019-09-16 08:33:25
+449,"M 4.0 - 242km NW of Saumlaki, Indonesia",4,2019-09-16 07:40:06
+450,"M 4.4 - 91km W of Ovalle, Chile",4.4,2019-09-16 07:39:43
+451,"M 4.3 - 6km NNW of Tamuning-Tumon-Harmon Village, Guam",4.3,2019-09-16 07:06:29
+452,"M 4.6 - 42km W of Semirom, Iran",4.6,2019-09-16 06:56:57
+453,"M 5.1 - 44km SSW of Zhangye, China",5.1,2019-09-16 06:48:41
+454,"M 4.7 - 60km E of Yamada, Japan",4.7,2019-09-16 06:43:59
+455,M 4.2 - South of the Fiji Islands,4.2,2019-09-16 05:21:18
+456,"M 4.8 - 104km ENE of Laiwui, Indonesia",4.8,2019-09-16 04:34:35
+457,"M 4.0 - 5km SE of Arroyo Salado, Dominican Republic",4,2019-09-16 00:53:53
+458,"M 4.6 - 247km SE of Lambasa, Fiji",4.6,2019-09-16 00:33:15
+459,"M 4.6 - 126km NNE of Barranca, Peru",4.6,2019-09-15 23:54:18
+460,"M 4.4 - 78km SSW of Banda Aceh, Indonesia",4.4,2019-09-15 18:52:06
+461,M 4.4 - Banda Sea,4.4,2019-09-15 18:36:28
+462,"M 5.2 - 151km SSE of Chichi-shima, Japan",5.2,2019-09-15 18:29:32
+463,"M 4.4 - 259km SE of Latung, Philippines",4.4,2019-09-15 17:21:13
+464,"M 4.5 - 17km ESE of Ust'-Kamchatsk Staryy, Russia",4.5,2019-09-15 16:38:15
+465,"M 4.5 - 62km E of Arzak, China",4.5,2019-09-15 15:44:07
+466,"M 4.5 - 45km WSW of Little Sitkin Island, Alaska",4.5,2019-09-15 12:20:06
+467,"M 4.4 - 66km WNW of La Ligua, Chile",4.4,2019-09-15 10:56:35
+468,"M 4.0 - 54km WNW of La Ligua, Chile",4,2019-09-15 10:44:00
+469,"M 4.5 - 139km NE of Kuqa, China",4.5,2019-09-15 10:34:58
+470,"M 4.0 - 203km W of Abepura, Indonesia",4,2019-09-15 10:30:04
+471,"M 4.7 - 62km E of Mutsu, Japan",4.7,2019-09-15 10:27:10
+472,"M 4.5 - 139km ENE of Kuqa, China",4.5,2019-09-15 10:13:08
+473,"M 4.5 - 133km E of Pangai, Tonga",4.5,2019-09-15 10:02:55
+474,"M 4.5 - 118km ENE of Suva, Fiji",4.5,2019-09-15 08:03:08
+475,"M 4.5 - 195km SSE of Bristol Island, South Sandwich Islands",4.5,2019-09-15 07:53:18
+476,"M 4.7 - 150km ESE of Tadine, New Caledonia",4.7,2019-09-15 07:26:27
+477,"M 4.8 - 94km SSW of Tres Picos, Mexico",4.8,2019-09-15 05:50:32
+478,"M 4.9 - 86km N of Hihifo, Tonga",4.9,2019-09-15 05:43:42
+479,"M 4.1 - 47km SW of La Gomera, Guatemala",4.1,2019-09-15 01:41:39
+480,"M 5.2 - 57km SSW of Nueva Concepcion, Guatemala",5.2,2019-09-15 00:59:17
+481,"M 4.6 - 129km S of Raoul Island, New Zealand",4.6,2019-09-14 23:49:49
+482,"M 4.3 - 42km NNW of Putre, Chile",4.3,2019-09-14 21:25:37
+483,"M 4.7 - 8km SE of Otsuchi, Japan",4.7,2019-09-14 21:02:40
+484,"M 4.5 - 60km WSW of Palaiochora, Greece",4.5,2019-09-14 20:06:51
+485,"M 4.1 - 120km E of Bitung, Indonesia",4.1,2019-09-14 18:27:12
+486,"M 4.4 - 183km NW of Neiafu, Tonga",4.4,2019-09-14 17:25:59
+487,M 5.0 - Reykjanes Ridge,5,2019-09-14 15:10:52
+488,"M 4.3 - 16km N of Ngarangiakambera, Indonesia",4.3,2019-09-14 13:52:02
+489,"M 4.0 - 11km ENE of Tibanbang, Philippines",4,2019-09-14 13:05:06
+490,"M 4.3 - 12km SE of Cerkes, Turkey",4.3,2019-09-14 13:03:34
+491,"M 4.2 - 298km NW of Ozernovskiy, Russia",4.2,2019-09-14 12:14:31
+492,"M 4.3 - 44km NW of Taltal, Chile",4.3,2019-09-14 11:40:34
+493,"M 5.0 - 111km S of Raoul Island, New Zealand",5,2019-09-14 10:42:07
+494,"M 5.8 - 104km ENE of Laiwui, Indonesia",5.8,2019-09-14 10:21:27
+495,"M 4.4 - 34km ESE of Caldiran, Turkey",4.4,2019-09-14 09:33:44
+496,"M 4.6 - 158km WSW of San Antonio, Chile",4.6,2019-09-14 08:40:52
+497,"M 5.4 - 21km SW of Akutan, Alaska",5.4,2019-09-14 07:25:54
+498,M 5.2 - Southern Mid-Atlantic Ridge,5.2,2019-09-14 06:47:14
+499,M 4.3 - Southern Mid-Atlantic Ridge,4.3,2019-09-14 06:45:21
+500,"M 4.9 - 165km WSW of San Antonio, Chile",4.9,2019-09-14 06:22:44
+501,"M 4.1 - 129km S of Abepura, Indonesia",4.1,2019-09-14 05:54:27
+502,"M 4.3 - 11km NW of Orta, Turkey",4.3,2019-09-14 05:46:01
+503,"M 4.3 - 215km SE of Amahai, Indonesia",4.3,2019-09-14 05:01:21
+504,"M 4.5 - 4km S of Santa Fe, Philippines",4.5,2019-09-14 04:35:11
+505,"M 4.6 - 17km E of Los Andes, Chile",4.6,2019-09-14 00:14:32
+506,"M 4.7 - 9km NW of Orta, Turkey",4.7,2019-09-14 00:03:13
+507,"M 4.4 - 12km SE of Cerkes, Turkey",4.4,2019-09-14 00:00:31
+508,"M 4.3 - 218km SE of Lambasa, Fiji",4.3,2019-09-13 23:42:52
+509,"M 5.0 - 12km WNW of Albardon, Argentina",5,2019-09-13 23:15:31
+510,"M 4.2 - 10km NNE of Aratoca, Colombia",4.2,2019-09-13 22:06:22
+511,"M 4.4 - 56km ENE of Misawa, Japan",4.4,2019-09-13 21:57:17
+512,"M 5.1 - 143km ENE of Sorong, Indonesia",5.1,2019-09-13 21:42:05
+513,"M 4.5 - 29km NE of Yigo Village, Guam",4.5,2019-09-13 21:11:39
+514,M 4.4 - Reykjanes Ridge,4.4,2019-09-13 20:55:24
+515,"M 4.6 - 5km SSE of Yotsukaido, Japan",4.6,2019-09-13 20:54:38
+516,M 4.5 - Reykjanes Ridge,4.5,2019-09-13 20:48:50
+517,"M 4.5 - 125km NNW of Tobelo, Indonesia",4.5,2019-09-13 20:42:22
+518,"M 4.4 - 117km SSE of Putre, Chile",4.4,2019-09-13 20:09:12
+519,"M 5.4 - 91km NE of Hihifo, Tonga",5.4,2019-09-13 16:53:31
+520,"M 4.0 - 57km W of Ust'-Ulagan, Russia",4,2019-09-13 13:41:46
+521,"M 4.3 - 117km SW of Uyuni, Bolivia",4.3,2019-09-13 13:23:13
+522,"M 4.2 - 1km SE of Baghlan, Afghanistan",4.2,2019-09-13 12:32:23
+523,"M 4.8 - 39km SSW of Pointe Michel, Dominica",4.8,2019-09-13 10:27:19
+524,"M 4.7 - 38km S of San Mateo del Mar, Mexico",4.7,2019-09-13 09:33:00
+525,M 5.3 - Northern Mid-Atlantic Ridge,5.3,2019-09-13 08:12:30
+526,"M 4.1 - 196km ENE of Chichi-shima, Japan",4.1,2019-09-13 07:27:28
+527,"M 4.5 - 36km S of Jarm, Afghanistan",4.5,2019-09-13 05:36:09
+528,"M 4.7 - 12km ESE of Carlagan, Philippines",4.7,2019-09-13 03:18:21
+529,"M 5.3 - 26km ENE of Carlagan, Philippines",5.3,2019-09-13 02:28:17
+530,"M 4.4 - 251km S of L'Esperance Rock, New Zealand",4.4,2019-09-13 01:56:54
+531,"M 4.1 - 75km SW of Yonakuni, Japan",4.1,2019-09-13 01:05:30
+532,"M 4.7 - 49km NW of Aktash, Russia",4.7,2019-09-12 22:29:48
+533,"M 5.0 - 39km NW of Aktash, Russia",5,2019-09-12 22:08:05
+534,"M 4.4 - 75km ENE of Tobelo, Indonesia",4.4,2019-09-12 21:45:34
+535,"M 4.4 - 148km NNW of Boroko, Indonesia",4.4,2019-09-12 21:02:15
+536,"M 4.6 - 86km NNE of Finschhafen, Papua New Guinea",4.6,2019-09-12 20:53:25
+537,"M 4.6 - 164km ESE of Kirakira, Solomon Islands",4.6,2019-09-12 19:47:06
+538,"M 4.1 - 114km SW of Puerto Madero, Mexico",4.1,2019-09-12 19:20:08
+539,"M 4.4 - 251km SSW of Qiemo, China",4.4,2019-09-12 18:59:56
+540,"M 4.2 - 10km ENE of Ternate, Indonesia",4.2,2019-09-12 17:37:57
+541,"M 4.4 - 236km WSW of Ile Hunter, New Caledonia",4.4,2019-09-12 16:55:14
+542,"M 4.3 - 67km W of Tobelo, Indonesia",4.3,2019-09-12 16:16:49
+543,"M 4.4 - 211km SE of Sarangani, Philippines",4.4,2019-09-12 11:21:44
+544,M 4.9 - West Chile Rise,4.9,2019-09-12 10:53:18
+545,"M 4.1 - 68km S of Putre, Chile",4.1,2019-09-12 10:14:50
+546,M 5.1 - Mid-Indian Ridge,5.1,2019-09-12 09:36:32
+547,"M 4.6 - 31km NE of Tobelo, Indonesia",4.6,2019-09-12 09:28:45
+548,M 5.1 - Mid-Indian Ridge,5.1,2019-09-12 08:08:53
+549,"M 4.7 - 44km NE of Calama, Chile",4.7,2019-09-12 08:08:18
+550,"M 4.7 - 64km S of La Santisima Trinidad, Bolivia",4.7,2019-09-12 07:09:12
+551,"M 4.1 - Izu Islands, Japan region",4.1,2019-09-12 06:06:13
+552,"M 4.6 - 181km NNW of Farallon de Pajaros, Northern Mariana Islands",4.6,2019-09-12 05:59:53
+553,"M 4.8 - 26km SSW of Jarm, Afghanistan",4.8,2019-09-12 03:22:32
+554,M 5.0 - Southwest of Africa,5,2019-09-12 02:48:40
+555,"M 4.5 - 169km WSW of Vaini, Tonga",4.5,2019-09-12 01:27:25
+556,"M 4.7 - 79km SW of L'Esperance Rock, New Zealand",4.7,2019-09-12 01:08:12
+557,"M 4.5 - 91km SW of Chepes, Argentina",4.5,2019-09-12 00:27:55
+558,"M 4.5 - 130km WNW of Hihifo, Tonga",4.5,2019-09-11 20:38:40
+559,"M 4.1 - 256km SE of Kodiak, Alaska",4.1,2019-09-11 18:42:46
+560,"M 4.5 - 72km ENE of Ndoi Island, Fiji",4.5,2019-09-11 17:30:01
+561,M 4.9 - South of the Fiji Islands,4.9,2019-09-11 17:11:50
+562,"M 4.4 - 174km NNW of Saumlaki, Indonesia",4.4,2019-09-11 17:11:46
+563,M 5.0 - Kuril Islands,5,2019-09-11 14:59:09
+564,"M 4.2 - 48km E of Kandrian, Papua New Guinea",4.2,2019-09-11 14:14:41
+565,"M 4.2 - 72km ENE of Kimbe, Papua New Guinea",4.2,2019-09-11 13:19:53
+566,M 5.4 - West Chile Rise,5.4,2019-09-11 13:16:40
+567,"M 5.0 - 129km NE of Massawa, Eritrea",5,2019-09-11 13:06:57
+568,"M 4.2 - 114km NNE of Ndoi Island, Fiji",4.2,2019-09-11 12:26:49
+569,"M 4.0 - 65km SE of Adak, Alaska",4,2019-09-11 12:08:59
+570,M 5.5 - South of the Fiji Islands,5.5,2019-09-11 11:51:55
+571,"M 4.2 - 14km SSW of Piedecuesta, Colombia",4.2,2019-09-11 11:44:27
+572,"M 4.6 - 18km W of Taupo, New Zealand",4.6,2019-09-11 11:28:27
+573,"M 4.4 - 22km SSE of Cocula, Mexico",4.4,2019-09-11 10:49:26
+574,"M 4.3 - 67km ENE of Namie, Japan",4.3,2019-09-11 10:44:48
+575,"M 4.4 - 9km E of Makurazaki, Japan",4.4,2019-09-11 10:05:42
+576,"M 4.6 - 124km SW of Port Blair, India",4.6,2019-09-11 09:40:17
+577,"M 4.5 - 19km SSE of Palora, Ecuador",4.5,2019-09-11 09:18:03
+578,"M 4.5 - 23km E of Tacna, Peru",4.5,2019-09-11 08:52:30
+579,"M 4.3 - 239km WNW of Saumlaki, Indonesia",4.3,2019-09-11 07:16:12
+580,"M 4.9 - 82km NNW of Finschhafen, Papua New Guinea",4.9,2019-09-11 05:30:20
+581,"M 4.1 - 72km NW of Cabra, Philippines",4.1,2019-09-11 05:21:04
+582,M 4.2 - South of the Fiji Islands,4.2,2019-09-11 05:17:13
+583,"M 4.1 - 294km NNE of Warburton, Australia",4.1,2019-09-11 03:01:00
+584,"M 4.5 - 24km SE of Jarm, Afghanistan",4.5,2019-09-11 01:14:38
+585,"M 4.4 - 31km SSW of Santa Teresa, Nicaragua",4.4,2019-09-11 01:07:35
+586,"M 4.5 - 66km SSW of Patea, New Zealand",4.5,2019-09-11 00:57:45
+587,"M 4.1 - 38km N of Santa Catarina Juquila, Mexico",4.1,2019-09-10 21:41:53
+588,"M 4.1 - 70km NNW of Hihifo, Tonga",4.1,2019-09-10 19:34:48
+589,"M 4.5 - 106km ESE of Kandrian, Papua New Guinea",4.5,2019-09-10 18:58:32
+590,"M 4.3 - 212km SE of Sarangani, Philippines",4.3,2019-09-10 18:51:16
+591,"M 4.4 - 199km SE of Sarangani, Philippines",4.4,2019-09-10 18:36:07
+592,"M 4.8 - 38km S of Ocos, Guatemala",4.8,2019-09-10 17:54:56
+593,"M 4.7 - 196km SE of Sarangani, Philippines",4.7,2019-09-10 17:46:06
+594,"M 5.6 - 203km SE of Sarangani, Philippines",5.6,2019-09-10 17:32:23
+595,"M 4.0 - 51km ESE of Sarangani, Philippines",4,2019-09-10 16:24:26
+596,M 4.9 - Southern Mid-Atlantic Ridge,4.9,2019-09-10 15:07:53
+597,"M 5.7 - 255km W of Sitka, Alaska",5.7,2019-09-10 14:32:12
+598,"M 4.6 - 28km SW of Mawlamyinegyunn, Burma",4.6,2019-09-10 14:18:44
+599,"M 4.6 - 16km SW of Kinangan, Philippines",4.6,2019-09-10 12:46:09
+600,"M 4.0 - 28km WSW of Ovalle, Chile",4,2019-09-10 12:33:01
+601,"M 4.1 - Izu Islands, Japan region",4.1,2019-09-10 12:04:39
+602,"M 4.5 - 8km WNW of Ilijan, Philippines",4.5,2019-09-10 11:45:42
+603,"M 4.7 - 86km SSW of Sumberejo, Indonesia",4.7,2019-09-10 11:12:33
+604,"M 4.7 - 15km SW of Tashir, Armenia",4.7,2019-09-10 10:22:47
+605,"M 4.7 - 117km NE of Visokoi Island, South Georgia and the South Sandwich Islands",4.7,2019-09-10 09:45:52
+606,"M 5.0 - 47km SSW of Puerto El Triunfo, El Salvador",5,2019-09-10 08:16:46
+607,"M 4.4 - Kepulauan Barat Daya, Indonesia",4.4,2019-09-10 07:55:12
+608,M 4.8 - Northern Mid-Atlantic Ridge,4.8,2019-09-10 07:40:58
+609,"M 4.3 - 250km SSE of Severo-Kuril'sk, Russia",4.3,2019-09-10 07:13:20
+610,"M 4.1 - 28km SE of Atka, Alaska",4.1,2019-09-10 04:53:53
+611,M 5.0 - East of the South Sandwich Islands,5,2019-09-10 03:53:00
+612,"M 4.3 - 106km SSW of Ust'-Kamchatsk Staryy, Russia",4.3,2019-09-10 03:29:22
+613,"M 4.3 - 70km SE of Karpathos, Greece",4.3,2019-09-10 01:06:46
+614,"M 5.6 - 23km SE of Bobon, Philippines",5.6,2019-09-09 23:39:24
+615,"M 4.6 - 45km E of Austin, Nevada",4.6,2019-09-09 22:25:55
+616,M 4.0 - Off the coast of Oregon,4,2019-09-09 20:33:54
+617,"M 4.4 - 25km NE of Puyo, Ecuador",4.4,2019-09-09 17:52:42
+618,"M 4.3 - 21km SW of Sarpol-e Zahab, Iran",4.3,2019-09-09 16:40:52
+619,"M 4.4 - 115km N of Finschhafen, Papua New Guinea",4.4,2019-09-09 16:06:18
+620,"M 5.4 - 165km SE of Amatignak Island, Alaska",5.4,2019-09-09 15:24:18
+621,"M 4.5 - 103km S of Merizo Village, Guam",4.5,2019-09-09 15:16:15
+622,"M 4.0 - 133km N of Calama, Chile",4,2019-09-09 13:31:38
+623,M 4.2 - North of Severnaya Zemlya,4.2,2019-09-09 13:13:00
+624,M 4.6 - Northern Mid-Atlantic Ridge,4.6,2019-09-09 12:44:52
+625,M 4.2 - North Indian Ocean,4.2,2019-09-09 12:31:51
+626,"M 4.3 - 22km WSW of Tokoroa, New Zealand",4.3,2019-09-09 12:08:39
+627,"M 5.4 - 19km WSW of Araya, Venezuela",5.4,2019-09-09 12:05:17
+628,"M 4.1 - 150km SSE of Sigave, Wallis and Futuna",4.1,2019-09-09 11:54:54
+629,"M 5.0 - 1km E of Balatero, Philippines",5,2019-09-09 11:17:07
+630,"M 4.5 - 149km NNW of Sola, Vanuatu",4.5,2019-09-09 10:54:08
+631,"M 4.2 - 108km SW of Kokopo, Papua New Guinea",4.2,2019-09-09 06:44:25
+632,"M 4.0 - 124km NNE of Palue, Indonesia",4,2019-09-09 06:25:05
+633,"M 4.4 - 31km SW of Coquimbo, Chile",4.4,2019-09-09 05:57:17
+634,"M 4.2 - 70km SSW of Salina Cruz, Mexico",4.2,2019-09-09 05:14:22
+635,M 5.5 - Southeast of Easter Island,5.5,2019-09-09 03:53:30
+636,"M 5.2 - 88km W of Isangel, Vanuatu",5.2,2019-09-09 03:37:58
+637,"M 4.5 - 144km WNW of Tobelo, Indonesia",4.5,2019-09-09 03:36:36
+638,"M 4.9 - 43km E of Bhadarwah, India",4.9,2019-09-09 00:40:32
+639,"M 4.7 - 24km WNW of Itbayat, Philippines",4.7,2019-09-08 23:07:47
+640,"M 5.4 - 42km ENE of Amatignak Island, Alaska",5.4,2019-09-08 21:54:06
+641,"M 4.4 - 13km WNW of San Miguel, Philippines",4.4,2019-09-08 21:14:08
+642,"M 4.5 - 41km WSW of Cetraro, Italy",4.5,2019-09-08 20:57:49
+643,"M 4.7 - 66km SE of Lata, Solomon Islands",4.7,2019-09-08 20:57:46
+644,"M 4.9 - 292km ESE of Iwo Jima, Japan",4.9,2019-09-08 19:26:57
+645,"M 4.5 - 94km S of Hachijo-jima, Japan",4.5,2019-09-08 18:59:00
+646,"M 5.4 - 35km WSW of Mpanda, Tanzania",5.4,2019-09-08 18:38:46
+647,"M 4.3 - 16km NE of Roshtqal'a, Tajikistan",4.3,2019-09-08 17:56:35
+648,M 4.6 - Reykjanes Ridge,4.6,2019-09-08 15:26:31
+649,"M 4.4 - 19km SE of Iquique, Chile",4.4,2019-09-08 14:40:18
+650,"M 4.5 - 22km WNW of Megalopolis, Greece",4.5,2019-09-08 14:00:17
+651,M 4.1 - Arctic Ocean,4.1,2019-09-08 13:34:08
+652,"M 4.4 - 70km W of Qeshm, Iran",4.4,2019-09-08 13:13:49
+653,"M 5.1 - 56km WSW of Panguna, Papua New Guinea",5.1,2019-09-08 12:10:32
+654,"M 4.0 - 40km SW of Little Sitkin Island, Alaska",4,2019-09-08 10:55:26
+655,"M 4.4 - 29km ENE of Calingasta, Argentina",4.4,2019-09-08 10:49:37
+656,M 4.5 - Carlsberg Ridge,4.5,2019-09-08 08:43:31
+657,M 4.1 - Fiji region,4.1,2019-09-08 08:42:35
+658,"M 4.3 - 121km SE of Lata, Solomon Islands",4.3,2019-09-08 07:57:36
+659,"M 5.0 - 15km ENE of Suyan, Philippines",5,2019-09-08 07:49:16
+660,"M 4.3 - 223km ESE of Lambasa, Fiji",4.3,2019-09-08 07:20:42
+661,"M 4.6 - 66km W of Qeshm, Iran",4.6,2019-09-08 04:53:27
+662,"M 4.2 - 40km SSW of Jarm, Afghanistan",4.2,2019-09-08 04:19:55
+663,"M 4.0 - 162km SW of Kupang, Indonesia",4,2019-09-08 01:39:28
+664,"M 4.2 - 119km ENE of Watubuku, Indonesia",4.2,2019-09-07 23:39:22
+665,"M 4.5 - 234km N of Chichi-shima, Japan",4.5,2019-09-07 23:23:55
+666,"M 4.6 - 211km ESE of Namie, Japan",4.6,2019-09-07 22:34:30
+667,"M 4.3 - 283km S of Amahusu, Indonesia",4.3,2019-09-07 22:20:10
+668,"M 4.5 - 75km NW of Yakutat, Alaska",4.5,2019-09-07 22:01:39
+669,"M 4.4 - 144km NNE of Calama, Chile",4.4,2019-09-07 21:52:53
+670,M 5.2 - Indian Ocean Triple Junction,5.2,2019-09-07 21:34:20
+671,"M 4.3 - 209km ESE of Tadine, New Caledonia",4.3,2019-09-07 21:06:17
+672,"M 4.9 - 8km SW of Yanling, China",4.9,2019-09-07 20:36:22
+673,"M 4.8 - 44km ENE of Bhadarwah, India",4.8,2019-09-07 20:34:32
+674,"M 4.2 - 73km W of San Antonio de los Cobres, Argentina",4.2,2019-09-07 20:02:36
+675,"M 4.1 - 8km NNW of Chiojdu, Romania",4.1,2019-09-07 17:22:00
+676,"M 4.4 - 83km ESE of Isangel, Vanuatu",4.4,2019-09-07 16:57:41
+677,"M 5.0 - 14km WSW of Neijiang, China",5,2019-09-07 16:42:14
+678,"M 4.1 - 79km N of Port-Olry, Vanuatu",4.1,2019-09-07 15:55:43
+679,"M 4.2 - 147km SW of Uyuni, Bolivia",4.2,2019-09-07 15:15:48
+680,"M 4.6 - 281km NW of Longyearbyen, Svalbard and Jan Mayen",4.6,2019-09-07 14:05:12
+681,"M 4.6 - 55km ENE of Chazuta, Peru",4.6,2019-09-07 13:02:50
+682,"M 5.3 - 11km NW of Bristol Island, South Sandwich Islands",5.3,2019-09-07 12:50:37
+683,"M 4.6 - 177km WNW of Zambezi, Zambia",4.6,2019-09-07 12:49:56
+684,M 4.5 - South of the Fiji Islands,4.5,2019-09-07 12:35:42
+685,"M 4.7 - 97km NNE of Chichi-shima, Japan",4.7,2019-09-07 08:16:17
+686,M 4.5 - Western Indian-Antarctic Ridge,4.5,2019-09-07 07:47:11
+687,"M 4.3 - 269km N of Chichi-shima, Japan",4.3,2019-09-07 06:16:33
+688,M 4.3 - Fiji region,4.3,2019-09-07 05:37:43
+689,"M 5.2 - 78km ENE of Mutsu, Japan",5.2,2019-09-07 03:35:50
+690,"M 4.0 - 58km NNW of Asan-Maina Village, Guam",4,2019-09-07 03:22:35
+691,"M 4.1 - 86km SSW of Pagan, Northern Mariana Islands",4.1,2019-09-07 01:38:58
+692,M 5.3 - Southern Mid-Atlantic Ridge,5.3,2019-09-06 23:35:01
+693,M 4.6 - Southern East Pacific Rise,4.6,2019-09-06 23:16:56
+694,"M 4.3 - 69km S of Kebonkopi, Indonesia",4.3,2019-09-06 21:56:12
+695,"M 4.1 - 240km W of Abepura, Indonesia",4.1,2019-09-06 21:32:42
+696,M 4.7 - Kuril Islands,4.7,2019-09-06 21:20:06
+697,"M 4.7 - 139km WNW of Hihifo, Tonga",4.7,2019-09-06 20:58:39
+698,"M 4.3 - 220km WSW of Hihifo, Tonga",4.3,2019-09-06 19:56:48
+699,"M 4.2 - 105km NE of Iquique, Chile",4.2,2019-09-06 18:52:54
+700,"M 4.4 - 282km E of Hasaki, Japan",4.4,2019-09-06 18:09:26
+701,"M 4.6 - 66km SSW of Tanana, Alaska",4.6,2019-09-06 17:32:28
+702,"M 4.7 - 110km NNW of Sorong, Indonesia",4.7,2019-09-06 17:28:24
+703,"M 4.0 - 211km W of Tual, Indonesia",4,2019-09-06 15:47:49
+704,"M 5.1 - 113km NW of Sorong, Indonesia",5.1,2019-09-06 15:14:26
+705,M 4.1 - Banda Sea,4.1,2019-09-06 14:23:11
+706,"M 4.2 - 45km SSE of Shizunai, Japan",4.2,2019-09-06 13:04:45
+707,"M 4.1 - 197km N of Bolangitang, Indonesia",4.1,2019-09-06 12:44:45
+708,"M 4.5 - 30km NNW of Agrihan, Northern Mariana Islands",4.5,2019-09-06 12:35:12
+709,"M 4.5 - 68km WSW of Raoul Island, New Zealand",4.5,2019-09-06 11:47:58
+710,"M 5.0 - 109km ENE of L'Esperance Rock, New Zealand",5,2019-09-06 11:25:39
+711,"M 5.9 - 74km SSW of Isangel, Vanuatu",5.9,2019-09-06 09:27:56
+712,"M 4.1 - 31km NW of Lae, Papua New Guinea",4.1,2019-09-06 08:58:21
+713,"M 4.5 - 55km E of Dinalongan, Philippines",4.5,2019-09-06 08:41:41
+714,"M 4.5 - 70km SE of Lagunas, Peru",4.5,2019-09-06 07:33:48
+715,"M 4.9 - 42km SSW of Puerto El Triunfo, El Salvador",4.9,2019-09-06 07:28:22
+716,"M 4.2 - 249km ESE of Namie, Japan",4.2,2019-09-06 07:24:07
+717,"M 4.4 - 77km W of Iquique, Chile",4.4,2019-09-06 07:07:30
+718,"M 4.3 - 25km SSE of Jarm, Afghanistan",4.3,2019-09-06 06:49:34
+719,"M 4.8 - 199km SSE of Sarangani, Philippines",4.8,2019-09-06 06:02:24
+720,"M 4.9 - 84km WSW of Port-Vila, Vanuatu",4.9,2019-09-06 04:37:55
+721,"M 4.9 - 7km W of Calatagan, Philippines",4.9,2019-09-06 04:32:59
+722,"M 4.8 - 37km NNW of Chauk, Burma",4.8,2019-09-06 04:09:48
+723,"M 4.2 - 71km SW of Gazipasa, Turkey",4.2,2019-09-06 02:59:54
+724,"M 4.1 - 42km NW of Coquimbo, Chile",4.1,2019-09-06 02:21:58
+725,"M 4.5 - 149km SSE of Ahwar, Yemen",4.5,2019-09-06 01:43:49
+726,"M 4.4 - 195km NW of Tobelo, Indonesia",4.4,2019-09-06 01:29:01
+727,"M 4.6 - 16km ESE of Yibin, China",4.6,2019-09-06 01:25:36
+728,"M 4.6 - 18km W of Ntoroko, Uganda",4.6,2019-09-06 00:15:35
+729,"M 4.3 - 95km E of Hachijo-jima, Japan",4.3,2019-09-05 23:44:16
+730,"M 4.7 - 46km ENE of Dinalongan, Philippines",4.7,2019-09-05 22:26:06
+731,"M 4.7 - 46km NNW of Taron, Papua New Guinea",4.7,2019-09-05 19:17:30
+732,"M 4.2 - 55km SE of Lukatan, Philippines",4.2,2019-09-05 18:10:34
+733,"M 4.3 - 128km N of Calama, Chile",4.3,2019-09-05 18:08:36
+734,"M 4.7 - 167km NE of Kindu, Democratic Republic of the Congo",4.7,2019-09-05 17:04:57
+735,"M 4.9 - 205km W of Abepura, Indonesia",4.9,2019-09-05 14:43:34
+736,"M 4.3 - 58km NNW of Sola, Vanuatu",4.3,2019-09-05 14:20:56
+737,"M 4.5 - 124km SSE of Chichi-shima, Japan",4.5,2019-09-05 13:29:57
+738,"M 5.0 - 158km NE of Kindu, Democratic Republic of the Congo",5,2019-09-05 12:50:05
+739,"M 4.5 - 57km NW of San Antonio de los Cobres, Argentina",4.5,2019-09-05 12:19:25
+740,"M 4.4 - 9km ENE of Himare, Albania",4.4,2019-09-05 11:47:39
+741,M 4.5 - South of the Fiji Islands,4.5,2019-09-05 11:29:44
+742,"M 4.5 - 70km SSW of Puerto El Triunfo, El Salvador",4.5,2019-09-05 11:09:34
+743,"M 4.4 - 7km NW of Santa Maria Petapa, Mexico",4.4,2019-09-05 10:41:53
+744,M 5.1 - Drake Passage,5.1,2019-09-05 10:06:03
+745,M 4.6 - Northern Mid-Atlantic Ridge,4.6,2019-09-05 09:47:39
+746,"M 4.9 - Off the coast of Aisen, Chile",4.9,2019-09-05 09:37:27
+747,"M 4.1 - 269km WNW of Bandon, Oregon",4.1,2019-09-05 09:27:25
+748,"M 5.9 - 284km WNW of Bandon, Oregon",5.9,2019-09-05 09:02:45
+749,M 5.3 - South China Sea,5.3,2019-09-05 07:58:34
+750,"M 4.6 - 43km WSW of Chimbote, Peru",4.6,2019-09-05 07:52:51
+751,M 4.5 - Balleny Islands region,4.5,2019-09-05 07:14:50
+752,"M 5.1 - 125km SSW of Biha, Indonesia",5.1,2019-09-05 05:56:19
+753,M 5.5 - Northern Mid-Atlantic Ridge,5.5,2019-09-05 05:52:06
+754,"M 4.8 - 56km ESE of Tarata, Peru",4.8,2019-09-05 05:09:01
+755,M 4.8 - East of the Kuril Islands,4.8,2019-09-05 05:01:34
+756,"M 4.4 - 74km WNW of San Antonio de los Cobres, Argentina",4.4,2019-09-05 03:42:23
+757,"M 4.3 - 10km WNW of Puerto Real, Puerto Rico",4.3,2019-09-05 03:33:28
+758,M 5.6 - Carlsberg Ridge,5.6,2019-09-05 03:12:20
+759,"M 5.1 - 14km S of Port-Vila, Vanuatu",5.1,2019-09-05 01:32:35
+760,M 4.5 - Norwegian Sea,4.5,2019-09-05 00:14:38
+761,"M 4.3 - 153km SSW of Padangsidempuan, Indonesia",4.3,2019-09-04 23:46:56
+762,"M 5.1 - 94km NW of Talcahuano, Chile",5.1,2019-09-04 23:41:31
+763,"M 4.3 - 53km ESE of Mangili, Philippines",4.3,2019-09-04 23:37:24
+764,M 5.3 - Kuril Islands,5.3,2019-09-04 21:23:27
+765,"M 4.6 - 98km NNE of Chichi-shima, Japan",4.6,2019-09-04 18:59:20
+766,"M 4.2 - 181km S of Sindangsari, Indonesia",4.2,2019-09-04 18:34:46
+767,"M 4.6 - 180km SSE of Hihifo, Tonga",4.6,2019-09-04 18:16:35
+768,"M 4.5 - 138km SE of Chichi-shima, Japan",4.5,2019-09-04 16:18:16
+769,"M 4.2 - 95km W of San Antonio de los Cobres, Argentina",4.2,2019-09-04 16:03:29
+770,"M 4.4 - 2km WNW of Ponong, Philippines",4.4,2019-09-04 15:14:42
+771,"M 4.8 - 88km W of San Antonio de los Cobres, Argentina",4.8,2019-09-04 15:13:25
+772,M 4.5 - South Indian Ocean,4.5,2019-09-04 14:49:10
+773,"M 4.8 - 136km WSW of Kota Ternate, Indonesia",4.8,2019-09-04 14:07:15
+774,"M 4.6 - 107km WNW of Neiafu, Tonga",4.6,2019-09-04 13:32:22
+775,"M 4.7 - 53km NNE of Ndoi Island, Fiji",4.7,2019-09-04 13:27:41
+776,"M 4.1 - 27km SE of Kokopo, Papua New Guinea",4.1,2019-09-04 12:35:04
+777,"M 4.2 - 81km NNW of Kefamenanu, Indonesia",4.2,2019-09-04 12:25:34
+778,"M 5.0 - 143km WSW of Kota Ternate, Indonesia",5,2019-09-04 12:09:44
+779,"M 4.6 - 178km S of Sindangsari, Indonesia",4.6,2019-09-04 12:06:16
+780,"M 4.3 - 26km NW of Kampungbajo, Indonesia",4.3,2019-09-04 10:41:53
+781,"M 4.2 - 80km WNW of Tobelo, Indonesia",4.2,2019-09-04 10:27:18
+782,"M 4.6 - 181km N of Farallon de Pajaros, Northern Mariana Islands",4.6,2019-09-04 10:18:14
+783,"M 4.9 - 92km NNE of Chichi-shima, Japan",4.9,2019-09-04 10:02:54
+784,"M 4.5 - 212km NNW of Saumlaki, Indonesia",4.5,2019-09-04 09:58:28
+785,"M 5.0 - 146km WNW of Tobelo, Indonesia",5,2019-09-04 07:37:47
+786,"M 4.4 - 78km SW of Yonakuni, Japan",4.4,2019-09-04 07:33:18
+787,"M 5.8 - 226km WNW of Pangai, Tonga",5.8,2019-09-04 03:48:22
+788,"M 4.9 - 223km NE of Opotiki, New Zealand",4.9,2019-09-04 03:13:43
+789,"M 5.1 - 14km WSW of Taupo, New Zealand",5.1,2019-09-04 01:02:52
+790,"M 4.7 - 131km NE of Neiafu, Tonga",4.7,2019-09-03 20:20:08
+791,"M 4.6 - 136km S of Bristol Island, South Sandwich Islands",4.6,2019-09-03 19:53:33
+792,"M 4.2 - 23km WNW of Ndoi Island, Fiji",4.2,2019-09-03 19:38:33
+793,"M 4.6 - 72km ESE of Karpathos, Greece",4.6,2019-09-03 19:01:32
+794,"M 4.3 - 33km ESE of Visokoi Island, South Georgia and the South Sandwich Islands",4.3,2019-09-03 17:40:34
+795,"M 4.5 - 73km E of General Luna, Philippines",4.5,2019-09-03 17:33:09
+796,"M 4.3 - 192km NNW of Saumlaki, Indonesia",4.3,2019-09-03 14:36:17
+797,"M 4.1 - 244km ENE of Dolinsk, Russia",4.1,2019-09-03 13:31:25
+798,"M 4.3 - 67km W of Uvira, Democratic Republic of the Congo",4.3,2019-09-03 13:21:34
+799,"M 4.5 - 84km SE of Phek, India",4.5,2019-09-03 13:18:39
+800,"M 4.9 - 99km W of Iranshahr, Iran",4.9,2019-09-03 12:47:03
+801,"M 4.6 - 109km E of Yamada, Japan",4.6,2019-09-03 12:42:36
+802,"M 4.9 - 88km NNE of Bristol Island, South Sandwich Islands",4.9,2019-09-03 12:34:29
+803,M 4.9 - Southeast Indian Ridge,4.9,2019-09-03 12:02:18
+804,"M 4.5 - 1km NNW of Sampungu, Indonesia",4.5,2019-09-03 11:39:27
+805,M 4.3 - South of the Kermadec Islands,4.3,2019-09-03 11:22:34
+806,"M 4.0 - 85km NNW of Finschhafen, Papua New Guinea",4,2019-09-03 11:07:38
+807,M 4.5 - Pacific-Antarctic Ridge,4.5,2019-09-03 10:39:25
+808,"M 4.2 - 16km ESE of Gharm, Tajikistan",4.2,2019-09-03 10:34:35
+809,"M 4.5 - 43km N of `Alaqahdari-ye Kiran wa Munjan, Afghanistan",4.5,2019-09-03 08:30:56
+810,"M 4.3 - 133km E of Bitung, Indonesia",4.3,2019-09-03 08:23:30
+811,"M 4.5 - 2km SW of Whakatane, New Zealand",4.5,2019-09-03 08:23:19
+812,"M 5.0 - 101km E of `Ohonua, Tonga",5,2019-09-03 06:53:29
+813,"M 4.8 - 43km SSW of Jarm, Afghanistan",4.8,2019-09-03 06:34:32
+814,"M 4.6 - 13km NNW of Nehoiu, Romania",4.6,2019-09-03 05:52:53
+815,"M 4.8 - 49km NNW of Tingo Maria, Peru",4.8,2019-09-03 04:10:14
+816,"M 4.1 - 12km WSW of Puerto Madero, Mexico",4.1,2019-09-03 03:23:04
+817,"M 4.6 - 49km NNW of Dededo Village, Guam",4.6,2019-09-03 02:13:47
+818,"M 4.0 - 175km SW of Kota Ternate, Indonesia",4,2019-09-03 01:33:41
+819,M 5.0 - South Pacific Ocean,5,2019-09-03 01:30:38
+820,"M 4.7 - 31km NNE of Chernabura Island, Alaska",4.7,2019-09-02 23:39:28
+821,"M 4.5 - 58km SSE of Palaikastron, Greece",4.5,2019-09-02 21:30:09
+822,"M 4.2 - 230km SE of San Jose del Cabo, Mexico",4.2,2019-09-02 20:21:02
+823,"M 4.4 - 68km W of Rota, Northern Mariana Islands",4.4,2019-09-02 19:59:04
+824,"M 4.3 - 25km SSW of Hualian, Taiwan",4.3,2019-09-02 18:47:31
+825,"M 4.5 - 195km SE of Lata, Solomon Islands",4.5,2019-09-02 17:24:03
+826,"M 4.6 - 124km S of Raoul Island, New Zealand",4.6,2019-09-02 16:55:06
+827,M 5.9 - Northern Mid-Atlantic Ridge,5.9,2019-09-02 16:45:48
+828,"M 4.9 - 69km WNW of San Antonio de los Cobres, Argentina",4.9,2019-09-02 14:53:30
+829,"M 4.4 - 78km E of Ndoi Island, Fiji",4.4,2019-09-02 13:49:44
+830,"M 4.2 - 12km N of Zhongcheng, China",4.2,2019-09-02 13:02:55
+831,"M 4.4 - 34km WSW of Palimbang, Philippines",4.4,2019-09-02 12:54:22
+832,"M 4.1 - 199km SE of Ndoi Island, Fiji",4.1,2019-09-02 12:27:00
+833,"M 4.7 - 103km S of Merizo Village, Guam",4.7,2019-09-02 11:55:39
+834,"M 4.6 - 131km SE of L'Esperance Rock, New Zealand",4.6,2019-09-02 10:59:13
+835,M 4.3 - South of the Fiji Islands,4.3,2019-09-02 10:50:04
+836,"M 4.7 - 126km S of `Ohonua, Tonga",4.7,2019-09-02 10:49:57
+837,"M 4.5 - 154km SSE of Vilyuchinsk, Russia",4.5,2019-09-02 10:41:21
+838,"M 5.1 - 57km SE of Abancay, Peru",5.1,2019-09-02 10:35:27
+839,"M 4.3 - 61km SSW of Sola, Vanuatu",4.3,2019-09-02 09:50:54
+840,"M 4.3 - 6km ENE of Yayladere, Turkey",4.3,2019-09-02 09:46:36
+841,"M 4.5 - 36km SW of Looc, Philippines",4.5,2019-09-02 07:21:08
+842,M 5.2 - North of Svalbard,5.2,2019-09-02 07:02:45
+843,"M 4.1 - 260km WNW of Ozernovskiy, Russia",4.1,2019-09-02 06:42:27
+844,"M 4.7 - 21km SSE of Castanas, Philippines",4.7,2019-09-02 06:04:05
+845,"M 4.2 - 239km SSE of Amahusu, Indonesia",4.2,2019-09-02 05:19:42
+846,"M 4.1 - 99km S of Taron, Papua New Guinea",4.1,2019-09-02 04:32:02
+847,"M 4.9 - 230km NNW of Saumlaki, Indonesia",4.9,2019-09-02 03:24:57
+848,"M 4.4 - 77km W of San Antonio de los Cobres, Argentina",4.4,2019-09-02 02:12:14
+849,M 4.4 - Southeast Indian Ridge,4.4,2019-09-02 00:55:11
+850,"M 4.8 - 99km S of Merizo Village, Guam",4.8,2019-09-02 00:48:24
+851,"M 4.4 - 54km ENE of Luganville, Vanuatu",4.4,2019-09-02 00:44:25
+852,"M 5.1 - 103km S of Inarajan Village, Guam",5.1,2019-09-02 00:41:47
+853,"M 4.6 - 39km SW of OEluedeniz, Turkey",4.6,2019-09-02 00:13:18
+854,M 4.4 - Galapagos Triple Junction region,4.4,2019-09-01 23:55:40
+855,"M 4.4 - 133km NNW of Kota Ternate, Indonesia",4.4,2019-09-01 21:42:47
+856,"M 4.3 - 33km SSW of Ndoi Island, Fiji",4.3,2019-09-01 20:31:46
+857,"M 4.2 - 18km NE of Nikolski, Alaska",4.2,2019-09-01 17:19:17
+858,"M 4.9 - 44km SE of Sinabang, Indonesia",4.9,2019-09-01 16:41:22
+859,"M 5.1 - 77km W of Arica, Chile",5.1,2019-09-01 15:32:16
+860,"M 4.4 - 224km WSW of Kavieng, Papua New Guinea",4.4,2019-09-01 15:29:48
+861,M 4.4 - Reykjanes Ridge,4.4,2019-09-01 14:34:04
+862,"M 4.1 - 87km E of Korsakov, Russia",4.1,2019-09-01 12:57:53
+863,"M 4.6 - 31km ENE of Ndoi Island, Fiji",4.6,2019-09-01 11:18:26
+864,"M 4.6 - 125km WSW of Kota Ternate, Indonesia",4.6,2019-09-01 10:58:23
+865,"M 5.1 - 182km WNW of Pangai, Tonga",5.1,2019-09-01 10:15:40
+866,"M 5.0 - 218km WNW of Pangai, Tonga",5,2019-09-01 10:10:38
+867,"M 6.6 - 34km NNE of Ndoi Island, Fiji",6.6,2019-09-01 09:54:20
+868,"M 4.5 - 40km NE of Yigo Village, Guam",4.5,2019-09-01 09:20:34
+869,"M 4.4 - 12km SE of Copiapo, Chile",4.4,2019-09-01 08:50:09
+870,"M 4.8 - 126km SSE of Pondaguitan, Philippines",4.8,2019-09-01 05:57:36
+871,"M 4.6 - 165km WNW of Tobelo, Indonesia",4.6,2019-09-01 05:38:09
+872,"M 4.6 - 151km ESE of Kimbe, Papua New Guinea",4.6,2019-09-01 04:34:08
+873,"M 4.6 - 156km SSW of `Ohonua, Tonga",4.6,2019-09-01 02:10:57
+874,"M 4.7 - 35km SW of Sarangani, Philippines",4.7,2019-09-01 00:23:52
+875,"M 4.3 - 48km W of Rota, Northern Mariana Islands",4.3,2019-08-31 23:54:37
+876,"M 4.3 - 123km WSW of Coquimbo, Chile",4.3,2019-08-31 23:00:08
+877,"M 4.5 - 106km NNW of Agrihan, Northern Mariana Islands",4.5,2019-08-31 22:42:24
+878,"M 5.0 - 88km W of Haines, Alaska",5,2019-08-31 22:32:26
+879,M 4.3 - South of the Fiji Islands,4.3,2019-08-31 21:16:34
+880,M 5.5 - Southern East Pacific Rise,5.5,2019-08-31 20:34:50
+881,"M 4.1 - 265km NNW of Raoul Island, New Zealand",4.1,2019-08-31 18:14:34
+882,"M 4.1 - 1km N of Norcia, Italy",4.1,2019-08-31 18:02:39
+883,M 5.7 - Southern East Pacific Rise,5.7,2019-08-31 17:54:40
+884,"M 4.7 - 15km ENE of Burgos, Philippines",4.7,2019-08-31 17:48:38
+885,"M 4.5 - 46km ENE of Su'ao, Taiwan",4.5,2019-08-31 17:46:04
+886,"M 4.0 - 8km E of Murghob, Tajikistan",4,2019-08-31 16:50:15
+887,"M 4.2 - 151km WSW of Port Lincoln, Australia",4.2,2019-08-31 15:00:25
+888,"M 4.0 - 199km WNW of Saumlaki, Indonesia",4,2019-08-31 12:52:13
+889,"M 4.9 - 132km S of Bristol Island, South Sandwich Islands",4.9,2019-08-31 11:33:53
+890,"M 4.4 - 109km WSW of Rabaul, Papua New Guinea",4.4,2019-08-31 10:29:18
+891,"M 5.5 - 26km NW of Shwebo, Burma",5.5,2019-08-31 09:09:21
+892,M 4.1 - Greenland Sea,4.1,2019-08-31 08:44:33
+893,"M 5.1 - 9km NE of Baculin, Philippines",5.1,2019-08-31 07:02:20
+894,"M 4.5 - 122km SSE of L'Esperance Rock, New Zealand",4.5,2019-08-31 06:28:49
+895,M 4.6 - Off the coast of Central America,4.6,2019-08-31 06:00:06
+896,"M 4.5 - 207km E of Tadine, New Caledonia",4.5,2019-08-31 05:23:20
+897,"M 4.9 - 90km NE of Road Town, British Virgin Islands",4.9,2019-08-31 02:45:14
+898,"M 4.3 - 83km NNW of Farallon de Pajaros, Northern Mariana Islands",4.3,2019-08-31 02:37:16
+899,"M 4.8 - 65km ENE of Taitung City, Taiwan",4.8,2019-08-31 01:50:18
+900,"M 4.6 - 40km ESE of Pondaguitan, Philippines",4.6,2019-08-31 01:42:32
+901,"M 4.1 - 58km SSW of Amukta Island, Alaska",4.1,2019-08-31 00:53:51
+902,"M 4.5 - 51km SSE of Turpan, China",4.5,2019-08-31 00:40:36
+903,"M 4.8 - 198km SSE of Isangel, Vanuatu",4.8,2019-08-31 00:30:52
+904,"M 4.6 - 271km SW of Vaini, Tonga",4.6,2019-08-30 22:56:34
+905,M 4.3 - South of the Fiji Islands,4.3,2019-08-30 21:58:40
+906,"M 4.8 - 123km SSW of Farallon de Pajaros, Northern Mariana Islands",4.8,2019-08-30 21:10:22
+907,"M 4.5 - 10km SE of Komodo, Indonesia",4.5,2019-08-30 19:15:05
+908,"M 4.1 - 2km NW of Tamulte de las Sabanas, Mexico",4.1,2019-08-30 18:09:15
+909,M 4.2 - South of the Fiji Islands,4.2,2019-08-30 18:07:15
