@@ -5,7 +5,7 @@ import csv
 from datetime import datetime
 
 mag = 4
-earthquakeAPI = f"https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2019-09-0&minmagnitude={mag}"
+earthquakeAPI = f"https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2019-02-0&minmagnitude={mag}"
 
 data = requests.get(earthquakeAPI)
 dataJson = data.json()
