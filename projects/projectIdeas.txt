@@ -8,4 +8,4 @@ email alert system for earthquakes(Done, but no live update API so it's as done 
 JSON stuff
 working with excel files
 More Plotly
-BOIDS(Have a moving triangle, sidelined until I learn something a little more friendly to my computer)
+BOIDS(Have a moving triangle, put on the backburner until I learn something a little more friendly to my computer)

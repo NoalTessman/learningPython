@@ -3,12 +3,12 @@ import json
 import time
 import csv
 from datetime import datetime
-
 mag = 5
 earthquakeAPI = f"https://earthquake.usgs.gov/fdsnws/event/1/query?format=geojson&starttime=2017-02-0&endtime=2019-02-0&minmagnitude={mag}"
 
 data = requests.get(earthquakeAPI)
 dataJson = data.json()
+
 #Earthquake object creator
 class earthquake:
     magnitude = 0
@@ -44,3 +44,6 @@ for quake in quakes:
 #seperate each season object based on magnitude
 Seasons = [Spring, Summer, Fall, Winter]
 #graph using a bar graph with each season having a thing that seperates earthquakes based on magnitude.
+wtr = csv.writer(open (f'seasonQuakes.csv', 'w'), delimiter=',', lineterminator='\n')
+wtr.writerow(["Seasons"])
+wtr.writerow([Seasons])
