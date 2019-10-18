@@ -9,3 +9,6 @@ JSON stuff
 working with excel files
 More Plotly
 BOIDS(Have a moving triangle, put on the backburner until I learn something a little more friendly to my computer)
+PI to ASCI to Wordfinder(Wordfinder on the backurner, will work on later)
+3d to 2d(Very hard, but looks very fun)
+auth
