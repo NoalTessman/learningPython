@@ -2,7 +2,7 @@ import noise
 import numpy as np
 import scipy.misc
 from PIL import Image
-shape = (5,5)
+shape = (1024,1024)
 scale = 100.0
 octaves = 6
 persistence = 0.5
@@ -18,7 +18,5 @@ for i in range(shape[0]):
                                     lacunarity=lacunarity, 
                                     repeatx=1024, 
                                     repeaty=1024, 
-                                    base=0)
-
-print(world)
-#Image.fromarray(world,"F").show()
+                                    base=0)*100
+Image.fromarray(world).show()
