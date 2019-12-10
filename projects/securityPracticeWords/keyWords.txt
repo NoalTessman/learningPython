@@ -1,0 +1,152 @@
+Rootkit
+Worm
+Trojan
+pcap
+RAT -Remote Access Tool
+MaaS
+pfSenseLogic Bomb
+Bluejacking
+Vishing
+Pharming
+tailgating
+PBX Systems
+Social Engineering Principles
+BlueSnarfing
+Session Hijacking
+MITM attack
+IV attack
+Fuzz Test
+Difference between DNS Posioniing and ARP attacks
+MTTR
+MTBF
+digest
+session hijacking
+IRC
+CSRF
+XSRF
+CSR
+Watering hole
+DLL injection
+Shimming
+Smurf
+KEK
+KPA
+Poodle
+How Rainbow Tables wokr
+Best WPA
+IPsec
+MPLS
+PAP
+Kerberos
+CHAP
+"APT(not the library, something to do with hacking)"
+OSINT
+Pointer dereference
+Race Condition
+system sprawl
+ACL
+IPsec modes
+CRC
+AH
+AES
+IPSec protocols
+NIPS
+HIDS
+IDS
+IPS
+NAT
+BCP
+ACL
+CRL
+Load Balancing
+"types of antennas, (feels like network+)"
+LWAPP
+DSCP
+LACP
+DRP
+DEP
+DLP
+DHE
+NAC
+MX Gateway
+HSM
+EFS
+STP
+WAF
+openVAS
+pfSense
+GSM
+IMEI
+WPS
+MDM
+OTA
+UAV
+RAS
+VDE
+GRE
+OTG
+DHE
+IEEE stuff
+LDAPS
+DIfferences between SNMP vsersions
+POP3S encrypted communication
+REgulatory frameworks
+extranet
+What does NAC vs NAT do
+Air gapping
+Defense-In-depth
+Load Balancers
+SSP
+SAN
+SDN
+SEH
+AES
+FDE
+TPM
+HSM
+Remote Attestation
+SEM
+RTOS
+SCADA
+RADIUS
+MaaS
+PCB
+SoC
+MFA
+MFD
+MTU
+MDF
+IAC
+Baselining
+Normalization
+SDLC
+Virt manager type
+UTM
+CASB
+WAF
+CSIRT
+GPG
+ECDHE
+CHE
+DHE
+KeyStretching
+PBKDF2
+TKIP
+CCNMP
+CCMP
+Different PEAP methods
+PLI
+PKI
+CA
+CSP
+IKE
+CRT
+OCSP
+CRL
+Certificate authorities
+PFX
+DER
+P7B
+PEM
+P12
+Certification standards and terms

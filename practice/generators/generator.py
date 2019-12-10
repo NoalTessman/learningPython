@@ -4,5 +4,3 @@ def square_nums(nums):
 my_nums = square_nums([1,2,3,4,5])
 for i in my_nums:
     print i
-my_nums = list(my_nums)
-print my_nums

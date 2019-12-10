@@ -41,7 +41,7 @@ def findUser():
             kill =False if x== "yes" else True
 
 def updateUser():
-    pass
+    users = csv.reader(open('users',"r"), delimiter=",",lineterminator="\n")    
 
 def deleteUser():
     users = csv.reader(open('users',"r"), delimiter=",",lineterminator="\n")
